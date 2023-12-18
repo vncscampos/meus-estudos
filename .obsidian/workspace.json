@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "edfdc75f350be0df",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b9b2c389c17c44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1552d37510a745b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d48d9dd14ee0ee92",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eb6028f03381c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4be5a85c97cf5b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "171d620dac38fc9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Web",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4748e8959914341",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfdaa5c43f57fa08",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce5f75fb684b3e58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5263ebb634c89f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d9417b70168ce0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6946bbfe6738281f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9e63420c79b0960",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "1552d37510a745b6",
+  "lastOpenFiles": [
+    "CTFs/README.md",
+    "CTFs/tryhackme/Couch.md",
+    "CTFs/tryhackme/wgel.md",
+    "CTFs/tryhackme/postexploit.md",
+    "CTFs/tryhackme/rrootme.md",
+    "CTFs/tryhackme/b99.md",
+    "CTFs/tryhackme/all_in_one.md",
+    "README.md",
+    "CTFs/tryhackme/year_of_the_rabbit.md",
+    "CTFs/tryhackme/vulnnet.md",
+    "CTFs/tryhackme/source.md",
+    "CTFs/tryhackme/picklerick.md",
+    "CTFs/tryhackme/opacity.md",
+    "CTFs/tryhackme/mustacchio.md",
+    "CTFs/tryhackme/madness.md",
+    "CTFs/tryhackme/lazyadmin.md",
+    "CTFs/tryhackme/jason.md",
+    "CTFs/tryhackme/ignite.md",
+    "CTFs/tryhackme/ice.md",
+    "CTFs/tryhackme/colddbox.md",
+    "CTFs/tryhackme/blog.md",
+    "CTFs/tryhackme/basic_pentesting.md",
+    "CTFs/tryhackme/VulnNetNode.md",
+    "CTFs/tryhackme/Koth_Food.md",
+    "CTFs/tryhackme/JackofAllTrades.md",
+    "CTFs/tryhackme",
+    "CTFs",
+    "todo-list.md",
+    "Anexos/Pasted image 20231218150350.png",
+    "Anexos",
+    "Sem título.canvas",
+    "Web",
+    "Redes",
+    "Sistemas Operacionais",
+    "Cibersegurança"
+  ]
+}

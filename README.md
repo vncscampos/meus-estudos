@@ -1,0 +1,1 @@
+Meus estudo relacionados a cibersegurança utilizando o Obsidian.
