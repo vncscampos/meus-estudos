@@ -1,7 +1,7 @@
 #web 
 
 
-O CORS ou **Cross-origin resource sharing** é um mecanismo presente nos navegadores para habilitar o acesso a recursos de outros domínios ou outras fontes. Ele extende outro mecanismo o [[Same-Origin Policy]].
+O CORS ou **Cross-origin resource sharing** é um mecanismo presente nos navegadores para habilitar o acesso a recursos de outros domínios ou outras fontes. Ele extende outro mecanismo o [[SOP]].
 
 ## CORS e SOP
 
