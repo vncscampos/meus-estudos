@@ -4,7 +4,7 @@
 
 - [x]  **OWASP Top 10 Room:** [Link](https://tryhackme.com/room/owasptop10)
 - [ ]  **************************************SQL Injection Lab:************************************** [Link](https://tryhackme.com/room/sqlilab)
-- [ ]  ********VulnNet:******** [Link](https://tryhackme.com/room/vulnnet1)
+- [x]  ********VulnNet:******** [Link](https://tryhackme.com/room/vulnnet1)
 - [ ]  ********VulnNet Internal:******** [Link](https://tryhackme.com/room/vulnnetinternal)
 - [ ]  **VulnNet dotjar: [Link](https://tryhackme.com/room/vulnnetdotjar)
 - [ ]  **VulnNet dotpy: [](https://tryhackme.com/room/vulnnetdotjar)**[Link](https://tryhackme.com/room/vulnnetdotpy)
@@ -28,9 +28,7 @@
 
 ### Linux
 
-- [ ]  **Linux modules:** [Link](https://tryhackme.com/room/linuxmodules)
-- [ ]  ********Linux PrivEsc:******** Link
-- [ ]  **Linux PrivEsc Arena:** [Link](https://tryhackme.com/room/linuxprivescarena)
+- [ ]  ********Linux PrivEsc:******** [Link](https://tryhackme.com/room/linuxprivesc)
 - [ ]  **************************Linux Agency:************************** [Link](https://tryhackme.com/room/linuxprivesc)
 
 ### Pentest
@@ -56,7 +54,7 @@
 - [ ]  **File Upload Lab 1:** [Link](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-web-shell-upload)
 - [ ]  **Insecure Deserialization Lab 1:** [Link](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-modifying-serialized-data-types)
 - [ ]  **HTTP request smuggling:** [Link](https://portswigger.net/web-security/request-smuggling)
-- [ ]  **************************************************HTTP Host Header Attacks:************************************************** [Link](https://portswigger.net/web-security/host-header)
+- [ ]  **************************************************HTTP Host Header Attacks desafios:************************************************** [Link](https://portswigger.net/web-security/host-header)
 - [ ]  **Web cache poisoning:** [Link](https://portswigger.net/web-security/web-cache-poisoning)
 - [ ]  **DOM-based vulnerabilities:** [Link](https://portswigger.net/web-security/dom-based)
 - [ ]  **************************JWT attacks:************************** [Link](https://portswigger.net/web-security/jwt)
@@ -69,7 +67,7 @@
 - [ ]  **Essential Skills**: [Link](https://portswigger.net/web-security/essential-skills)
 - [ ]  **API testing: [Link](https://portswigger.net/web-security/api-testing)
 - [ ]  *********************************NoSQL Injection:********************************* [Link](https://portswigger.net/web-security/nosql-injection)
-- [ ] **CSRF**: [Link](https://portswigger.net/web-security/csrf)
+- [x] **CSRF**: [Link](https://portswigger.net/web-security/csrf)
 
 ## VulnHub Machines:
 

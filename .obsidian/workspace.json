@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs/tryhackme/vulnnet.md",
+                "file": "Web/CSRF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f74ec6b5d4cb978d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo-list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c99b11167401bc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo-list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a50519881c12954d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/SOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 205.5
   },
   "right": {
     "id": "cfdaa5c43f57fa08",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTFs/tryhackme/vulnnet.md",
+                "file": "todo-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTFs/tryhackme/vulnnet.md",
+                "file": "todo-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTFs/tryhackme/vulnnet.md"
+                "file": "todo-list.md"
               }
             }
           }
@@ -146,38 +183,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b63730e6303f02d3",
+  "active": "c99b11167401bc2e",
   "lastOpenFiles": [
-    "CTFs/tryhackme/year_of_the_rabbit.md",
-    "CTFs/tryhackme/wgel.md",
-    "CTFs/tryhackme/VulnNetNode.md",
+    "Web/CORS.md",
+    "Web/SOP.md",
+    "Web/CSRF.md",
+    "todo-list.md",
+    "Web/Host header injection.md",
+    "Web/XSS.md",
+    "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
+    "CTFs/portswigger",
+    "EHE (EC-Council)/Módulo 1 - Fundamentos.md",
+    "README.md",
     "CTFs/tryhackme/vulnnet.md",
+    "CTFs/tryhackme/blog.md",
     "CTFs/tryhackme/source.md",
+    "CTFs/tryhackme/basic_pentesting.md",
+    "CTFs/tryhackme/jason.md",
+    "CTFs/tryhackme/year_of_the_rabbit.md",
+    "CTFs/tryhackme/mustacchio.md",
+    "CTFs/tryhackme/JackofAllTrades.md",
+    "CTFs/tryhackme/wgel.md",
+    "CTFs/tryhackme/ice.md",
+    "CTFs/tryhackme/Couch.md",
+    "CTFs/tryhackme/ignite.md",
     "CTFs/tryhackme/rrootme.md",
     "CTFs/tryhackme/postexploit.md",
     "CTFs/tryhackme/picklerick.md",
     "CTFs/tryhackme/opacity.md",
-    "CTFs/tryhackme/mustacchio.md",
     "CTFs/tryhackme/madness.md",
-    "CTFs/tryhackme/lazyadmin.md",
-    "CTFs/tryhackme/Koth_Food.md",
-    "CTFs/tryhackme/jason.md",
-    "CTFs/tryhackme/JackofAllTrades.md",
-    "CTFs/tryhackme/ignite.md",
-    "CTFs/tryhackme/ice.md",
-    "CTFs/tryhackme/Couch.md",
-    "CTFs/tryhackme/colddbox.md",
-    "CTFs/tryhackme/blog.md",
-    "CTFs/tryhackme/basic_pentesting.md",
-    "CTFs/tryhackme/b99.md",
-    "CTFs/tryhackme/all_in_one.md",
-    "todo-list.md",
-    "Web/CSRF.md",
-    "Anexos/Pasted image 20231218150350.png",
-    "Web/SOP.md",
-    "CTFs/portswigger",
-    "Sem título",
     "CTFs/tryhackme",
+    "EHE (EC-Council)",
+    "Anexos/Pasted image 20231218150350.png",
+    "CTFs/portswigger",
     "CTFs",
     "Anexos",
     "Sem título.canvas",

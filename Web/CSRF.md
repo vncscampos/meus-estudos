@@ -48,7 +48,14 @@ Diferente do *origin* (definido em [[SOP]]) um site consegue englobar vários su
 | https://example.com      | https://example.com:8080     | Sim                      | Não: porta diferente             |
 | https://example.com      | https://example.co.uk        | Não: TLD diferente       | Não: domínio diferente       |
 
+O SameSite possui três tipos:
+- **Strict:** os sites devem ser iguais se não o *cookie* não é incluido na requisição
+- **Lax:** só funciona em métodos GET (pois CSRF é mais comum em métodos POST)
+- **None:** Desativa as restrições SameSite mas tem que enviar o atributo *Secure* garantindo que os *cookies* só são enviados em mensagens criptografadas pelo HTTPS
 
+### SameSite Lax
+
+- **Teste 1:** Incluir o método POST -> [[CSRF - bypass SameSite Lax]]
 
 ## Burlando Referer header
 
