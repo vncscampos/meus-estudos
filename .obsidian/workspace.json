@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b63730e6303f02d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/CSRF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f74ec6b5d4cb978d",
             "type": "leaf",
             "state": {
@@ -32,31 +20,55 @@
             }
           },
           {
-            "id": "c99b11167401bc2e",
+            "id": "428b2faccb9711e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo-list.md",
+                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a50519881c12954d",
+            "id": "1f4eb082d118982b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/SOP.md",
+                "file": "Web/Web cache poisoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67ce2d6d2073622d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Web cache poisoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "282b3dcd270ab615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTFs/portswigger/Web cache poisoning - DOM-based.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo-list.md",
+                "file": "CTFs/portswigger/Web cache poisoning - DOM-based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo-list.md",
+                "file": "CTFs/portswigger/Web cache poisoning - DOM-based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo-list.md"
+                "file": "CTFs/portswigger/Web cache poisoning - DOM-based.md"
               }
             }
           }
@@ -183,15 +195,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c99b11167401bc2e",
+  "active": "d4be5a85c97cf5b5",
   "lastOpenFiles": [
-    "Web/CORS.md",
-    "Web/SOP.md",
-    "Web/CSRF.md",
-    "todo-list.md",
-    "Web/Host header injection.md",
-    "Web/XSS.md",
+    "Web/Web cache poisoning.md",
+    "CTFs/portswigger/Web cache poisoning - DOM-based.md",
     "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
+    "CTFs/portswigger/Web cache poisoning - unkeyed cookie.md",
+    "Web/Host header injection.md",
+    "CTFs/portswigger/Web cache poisoning - with an unkeyed header.md",
+    "Web/SOP.md",
+    "todo-list.md",
+    "Web/CSRF.md",
+    "Web/CORS.md",
+    "Web/XSS.md",
     "CTFs/portswigger",
     "EHE (EC-Council)/Módulo 1 - Fundamentos.md",
     "README.md",
@@ -208,10 +224,6 @@
     "CTFs/tryhackme/Couch.md",
     "CTFs/tryhackme/ignite.md",
     "CTFs/tryhackme/rrootme.md",
-    "CTFs/tryhackme/postexploit.md",
-    "CTFs/tryhackme/picklerick.md",
-    "CTFs/tryhackme/opacity.md",
-    "CTFs/tryhackme/madness.md",
     "CTFs/tryhackme",
     "EHE (EC-Council)",
     "Anexos/Pasted image 20231218150350.png",

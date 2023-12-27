@@ -64,8 +64,6 @@
 - [ ]  **************************************************************Authentication vulnerabilities:************************************************************** [Link](https://portswigger.net/web-security/authentication)
 - [ ]  ********OAuth 2.0:******** [Link](https://portswigger.net/web-security/oauth)
 - [ ]  ********************************Testing for WebSockets vulnerabilities:******************************** [Link](https://portswigger.net/web-security/websockets)
-- [ ]  **Essential Skills**: [Link](https://portswigger.net/web-security/essential-skills)
-- [ ]  **API testing: [Link](https://portswigger.net/web-security/api-testing)
 - [ ]  *********************************NoSQL Injection:********************************* [Link](https://portswigger.net/web-security/nosql-injection)
 - [x] **CSRF**: [Link](https://portswigger.net/web-security/csrf)
 

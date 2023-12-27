@@ -19,3 +19,5 @@ https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-sa
 
 </html>
 ```
+
+GG
