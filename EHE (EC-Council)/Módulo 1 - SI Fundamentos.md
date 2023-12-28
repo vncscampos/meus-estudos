@@ -13,5 +13,3 @@
 - Ataque = Motivação + Técnica + Vulnerabilidade;
 - Os ataques podem ser passivos, ativos ou próximos;
 - Vetores de ataque: computação em nuvem, APTs, malwares, phishing, WEB, IoT
-
-## Leis e regulamentos

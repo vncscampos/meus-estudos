@@ -1,4 +1,3 @@
-# VulnNet: Node
 https://tryhackme.com/room/vulnnetnode
 
 ## Recon e exploração

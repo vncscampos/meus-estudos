@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2db3be14dac12324",
+        "id": "b192d28a4138acc6",
         "type": "tabs",
         "children": [
           {
-            "id": "f74ec6b5d4cb978d",
+            "id": "9309673e21ae788e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo-list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "428b2faccb9711e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f4eb082d118982b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Web cache poisoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67ce2d6d2073622d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Web cache poisoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "282b3dcd270ab615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTFs/portswigger/Web cache poisoning - DOM-based.md",
+                "file": "CTFs/tryhackme/vulnnet - internal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTFs/portswigger/Web cache poisoning - DOM-based.md",
+                "file": "CTFs/tryhackme/vulnnet - internal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTFs/portswigger/Web cache poisoning - DOM-based.md",
+                "file": "CTFs/tryhackme/vulnnet - internal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTFs/portswigger/Web cache poisoning - DOM-based.md"
+                "file": "CTFs/tryhackme/vulnnet - internal.md"
               }
             }
           }
@@ -195,35 +146,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d4be5a85c97cf5b5",
+  "active": "9309673e21ae788e",
   "lastOpenFiles": [
-    "Web/Web cache poisoning.md",
-    "CTFs/portswigger/Web cache poisoning - DOM-based.md",
-    "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
-    "CTFs/portswigger/Web cache poisoning - unkeyed cookie.md",
-    "Web/Host header injection.md",
-    "CTFs/portswigger/Web cache poisoning - with an unkeyed header.md",
-    "Web/SOP.md",
-    "todo-list.md",
-    "Web/CSRF.md",
-    "Web/CORS.md",
-    "Web/XSS.md",
-    "CTFs/portswigger",
-    "EHE (EC-Council)/Módulo 1 - Fundamentos.md",
-    "README.md",
-    "CTFs/tryhackme/vulnnet.md",
+    "CTFs/tryhackme/vulnnet - Node.md",
+    "CTFs/tryhackme/all_in_one.md",
     "CTFs/tryhackme/blog.md",
-    "CTFs/tryhackme/source.md",
     "CTFs/tryhackme/basic_pentesting.md",
-    "CTFs/tryhackme/jason.md",
-    "CTFs/tryhackme/year_of_the_rabbit.md",
-    "CTFs/tryhackme/mustacchio.md",
-    "CTFs/tryhackme/JackofAllTrades.md",
-    "CTFs/tryhackme/wgel.md",
+    "CTFs/tryhackme/colddbox.md",
     "CTFs/tryhackme/ice.md",
     "CTFs/tryhackme/Couch.md",
     "CTFs/tryhackme/ignite.md",
+    "CTFs/tryhackme/JackofAllTrades.md",
+    "CTFs/tryhackme/jason.md",
+    "CTFs/tryhackme/Koth_Food.md",
+    "CTFs/tryhackme/lazyadmin.md",
+    "CTFs/tryhackme/madness.md",
+    "CTFs/tryhackme/mustacchio.md",
+    "CTFs/tryhackme/opacity.md",
+    "CTFs/tryhackme/picklerick.md",
+    "CTFs/tryhackme/postexploit.md",
     "CTFs/tryhackme/rrootme.md",
+    "CTFs/tryhackme/source.md",
+    "CTFs/tryhackme/vulnnet.md",
+    "CTFs/tryhackme/wgel.md",
+    "CTFs/tryhackme/year_of_the_rabbit.md",
+    "CTFs/tryhackme/vulnnet - internal.md",
+    "EHE (EC-Council)/Módulo 1 - SI Fundamentos.md",
+    "todo-list.md",
+    "EHE (EC-Council)/Módulo 2 - EH Fundamentos.md",
+    "CTFs/portswigger",
     "CTFs/tryhackme",
     "EHE (EC-Council)",
     "Anexos/Pasted image 20231218150350.png",
