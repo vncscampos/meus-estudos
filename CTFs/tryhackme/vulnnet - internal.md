@@ -40,6 +40,29 @@ Depois de ter explorado as pastas do rsync, voltei a explorar redis para ganhar 
 
 Rodando o comando `rsync -av rsync://rsync-connect@IP/files .` é baixado tudo que está em `/home/sys-internal` na máquina alvo e é onde está a terceira flag.
 
-Não achei nada que pudesse ajudar a ganhar acesso do alvo. Nem dumpzilla descobre algo da pasta `.mozilla`
+Com rsync também é possível fazer upload de arquivos, fazendo upload de arquivos para logar com ssh, conseguimos acesso ao usuário **sys-internal**
 
+```sh
+ssh-keygen -t rsa
+cp ~/.ssh/id_rsa.pub authorized_keys
+rsync authorized_keys rsync://rsync-connect@IP/files/sys-internal/.ssh
+```
 ## Privesc
+
+Na máquina existe um programa na raiz chamado TeamCity que está rodando localmente na porta 8111 e apenas o root tem acesso aos seus arquivos. Usando o ssh para encaminhar portas e acessar da minha máquina através do comando abaixo, ele leva para uma tela de login abrindo pelo navegador.
+
+```sh
+ssh -L 8111:localhost:8111 sys-internal@IP -p 22
+```
+
+A tela possui um aviso, indicando que é possível logar como superusuário sem as credenciais, apenas com um token. Olhando na máquina alvo, este token pode ser obtido em:
+
+```sh
+cat /TeamCity/logs/catalina.out | grep token
+```
+
+Como o TeamCity é uma ferramenta de CI/CD, é possível buildar projetos e criar script que irão rodar durante o build.
+
+![[Pasted image 20231228210516.png]]
+
+Com isso so abrir uma porta e GG.
