@@ -1,6 +1,4 @@
 
-## SI fundamentos
-
 - A segurança da informação é proteção de dados e sistemas contra ameaças (roubos, interrupções, acesso não autorizado etc);
 -  Como a tecnologia evoluiu e o uso dela aumentou, novas brechas e ameças a informações surgem, mostrando a necessidade de SI;
 - Existem elementos bases da SI, são eles:

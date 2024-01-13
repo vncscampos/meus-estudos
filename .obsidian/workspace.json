@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b192d28a4138acc6",
+        "id": "bd04335ae324ef6d",
         "type": "tabs",
         "children": [
           {
-            "id": "9309673e21ae788e",
+            "id": "321761ed0f0bff76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo-list.md",
+                "file": "EHE (EC-Council)/Módulo 4 - Quebra de senhas e contramedidas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo-list.md",
+                "file": "EHE (EC-Council)/Módulo 4 - Quebra de senhas e contramedidas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo-list.md",
+                "file": "EHE (EC-Council)/Módulo 4 - Quebra de senhas e contramedidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo-list.md"
+                "file": "EHE (EC-Council)/Módulo 4 - Quebra de senhas e contramedidas.md"
               }
             }
           }
@@ -146,34 +146,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9309673e21ae788e",
+  "active": "d4be5a85c97cf5b5",
   "lastOpenFiles": [
-    "CTFs/tryhackme/vulnnet - internal.md",
-    "Anexos/Pasted image 20231228210516.png",
+    "EHE (EC-Council)/Módulo 5 - Engenharia social.md",
+    "EHE (EC-Council)/Módulo 4 - Quebra de senhas e contramedidas.md",
+    "Sem título.canvas",
+    "EHE (EC-Council)/Módulo 1 - SI Fundamentos.md",
+    "EHE (EC-Council)/Módulo 3 - Ameaças e vulnerabilidades.md",
+    "EHE (EC-Council)/README.md",
+    "EHE (EC-Council)/Módulo 2 - EH Fundamentos.md",
+    "a.md",
+    "Anexos/Pasted image 20240111140612.png",
+    "todo-list.md",
     "CTFs/tryhackme/vulnnet.md",
-    "CTFs/tryhackme/year_of_the_rabbit.md",
-    "CTFs/tryhackme/wgel.md",
-    "CTFs/tryhackme/vulnnet - Node.md",
+    "CTFs/tryhackme/Valley.md",
     "CTFs/tryhackme/source.md",
-    "CTFs/tryhackme/rrootme.md",
-    "CTFs/tryhackme/postexploit.md",
-    "CTFs/tryhackme/picklerick.md",
-    "CTFs/tryhackme/opacity.md",
-    "CTFs/tryhackme/mustacchio.md",
-    "CTFs/tryhackme/madness.md",
-    "CTFs/tryhackme/lazyadmin.md",
-    "CTFs/tryhackme/Koth_Food.md",
-    "CTFs/tryhackme/jason.md",
-    "CTFs/tryhackme/JackofAllTrades.md",
     "CTFs/tryhackme/ignite.md",
     "CTFs/tryhackme/ice.md",
-    "CTFs/tryhackme/Couch.md",
-    "CTFs/tryhackme/colddbox.md",
-    "CTFs/tryhackme/blog.md",
+    "CTFs/tryhackme/Hacker vs Hacker.md",
+    "CTFs/tryhackme/lazyadmin.md",
+    "CTFs/tryhackme/Koth_Food.md",
+    "CTFs/tryhackme/vulnnet - internal.md",
+    "CTFs/tryhackme/cyborg.md",
+    "CTFs/tryhackme/vulnnet - Node.md",
+    "CTFs/tryhackme/wgel.md",
+    "CTFs/tryhackme/year_of_the_rabbit.md",
     "CTFs/tryhackme/basic_pentesting.md",
     "CTFs/tryhackme/b99.md",
     "CTFs/tryhackme/all_in_one.md",
-    "EHE (EC-Council)/Módulo 1 - SI Fundamentos.md",
+    "Sem título",
+    "Web/Web cache poisoning.md",
+    "CTFs/portswigger/Web cache poisoning - DOM-based.md",
+    "Anexos/Pasted image 20231228210516.png",
     "CTFs/portswigger",
     "CTFs/tryhackme",
     "EHE (EC-Council)",
@@ -181,10 +185,8 @@
     "CTFs/portswigger",
     "CTFs",
     "Anexos",
-    "Sem título.canvas",
     "Web",
     "Redes",
-    "Sistemas Operacionais",
-    "Cibersegurança"
+    "Sistemas Operacionais"
   ]
 }
