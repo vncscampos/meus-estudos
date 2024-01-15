@@ -31,7 +31,7 @@ O **CSRF Token** é uma chave única gerada pelo servidor e compartilhada com cl
 ## Burlando SameSite cookie
 
 Esse mecanismo define quando um *cookie* é adicionado em requisições de *sites* distintos.
-Neste contexto, um site é definidi como TLD + níveis do domínio + scheme. Ex:
+Neste contexto, um site é definido como TLD + níveis do domínio + scheme. Ex:
 
 `https://admin.example.com`
 

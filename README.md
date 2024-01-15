@@ -1,1 +1,1 @@
-Meus estudo relacionados a cibersegurança utilizando o Obsidian.
+Minhas anotações de estudo relacionados a cibersegurança utilizando o Obsidian (então algumas coisas visto pelo github fica bugado).

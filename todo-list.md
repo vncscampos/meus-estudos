@@ -111,3 +111,7 @@
 ## Pwned Labs
 
 - [ ]  Todos: [link](https://pwnedlabs.io/dashboard)
+
+## BugBountyTraining
+
+- [ ]  Todos: [link](https://bugbountytraining.com/)
