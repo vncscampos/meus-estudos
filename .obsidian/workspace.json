@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md",
+                "file": "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md",
+                "file": "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md",
+                "file": "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md"
+                "file": "API Penetration Testing/Módulo 2 - Análise de endpoint.md"
               }
             }
           }
@@ -146,12 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e2ac11219c0d42cf",
+  "active": "d4be5a85c97cf5b5",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240115140745.png",
+    "API Penetration Testing/Módulo 1 - Reconhecimento.md",
+    "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
+    "EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md",
     "EHE (EC-Council)/Módulo 3 - Ameaças e vulnerabilidades.md",
     "EHE (EC-Council)/Módulo 4 - Quebra de senhas e contramedidas.md",
     "EHE (EC-Council)/Módulo 5 - Engenharia social.md",
-    "EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md",
     "EHE (EC-Council)/Módulo 2 - EH Fundamentos.md",
     "Web/Host header injection.md",
     "Web/Web cache poisoning.md",
@@ -163,9 +166,7 @@
     "Web/CORS.md",
     "Web/XSS.md",
     "todo-list.md",
-    "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
     "README.md",
-    "API Penetration Testing/Módulo 1 - Reconhecimento.md",
     "Sem título.canvas",
     "API Penetration Testing",
     "EHE (EC-Council)/README.md",
@@ -177,7 +178,6 @@
     "CTFs/tryhackme/ignite.md",
     "CTFs/tryhackme/ice.md",
     "CTFs/tryhackme/Hacker vs Hacker.md",
-    "CTFs/tryhackme/lazyadmin.md",
     "Anexos/Pasted image 20231228210516.png",
     "CTFs/portswigger",
     "CTFs/tryhackme",
