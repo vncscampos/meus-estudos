@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b270b9b64c4d11d",
+        "id": "62c1c372e5275212",
         "type": "tabs",
         "children": [
           {
-            "id": "e2ac11219c0d42cf",
+            "id": "0af519501bfda2cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
+                "file": "CTFs/tryhackme/prioritise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
+                "file": "CTFs/tryhackme/prioritise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
+                "file": "CTFs/tryhackme/prioritise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Penetration Testing/Módulo 2 - Análise de endpoint.md"
+                "file": "CTFs/tryhackme/prioritise.md"
               }
             }
           }
@@ -146,38 +146,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d4be5a85c97cf5b5",
+  "active": "0af519501bfda2cd",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240115140745.png",
-    "API Penetration Testing/Módulo 1 - Reconhecimento.md",
+    "todo-list.md",
+    "CTFs/tryhackme/prioritise.md",
+    "Web/CSRF.md",
+    "Web/Directory Transversal.md",
+    "Web/DOM-Based.md",
+    "Web/Host header injection.md",
+    "Web/JWT.md",
+    "Web/Web cache poisoning.md",
+    "CTFs/portswigger/Web cache poisoning - with an unkeyed header.md",
+    "CTFs/portswigger/Web cache poisoning - unkeyed cookie.md",
+    "CTFs/portswigger/Web cache poisoning - DOM-based.md",
+    "Web/CORS.md",
     "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
+    "API Penetration Testing/Módulo 3 - Scan de API.md",
+    "API Penetration Testing/Módulo 4 - Ataque de autenticação.md",
+    "API Penetration Testing/Módulo 5 - API Authorization.md",
+    "CTFs/portswigger/JWT - algorithm confusion.md",
+    "CTFs/portswigger/JWT - bypass kid.md",
+    "CTFs/portswigger/JWT - bypass jku header.md",
+    "Web/Directoy Transversal.md",
+    "Web/SOP.md",
+    "Anexos/Pasted image 20240116135541.png",
+    "Anexos/Pasted image 20240116113515.png",
+    "Anexos/Pasted image 20240116112200.png",
+    "API Penetration Testing/Módulo 1 - Reconhecimento.md",
+    "Anexos/Pasted image 20240116111726.png",
+    "Anexos/Pasted image 20240115212538.png",
+    "Anexos/Pasted image 20240115140745.png",
     "EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md",
     "EHE (EC-Council)/Módulo 3 - Ameaças e vulnerabilidades.md",
     "EHE (EC-Council)/Módulo 4 - Quebra de senhas e contramedidas.md",
     "EHE (EC-Council)/Módulo 5 - Engenharia social.md",
-    "EHE (EC-Council)/Módulo 2 - EH Fundamentos.md",
-    "Web/Host header injection.md",
-    "Web/Web cache poisoning.md",
-    "Web/SOP.md",
-    "Web/CSRF.md",
-    "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
-    "EHE (EC-Council)/Módulo 1 - SI Fundamentos.md",
     "Anexos/Pasted image 20231218150350.png",
-    "Web/CORS.md",
-    "Web/XSS.md",
-    "todo-list.md",
-    "README.md",
     "Sem título.canvas",
     "API Penetration Testing",
-    "EHE (EC-Council)/README.md",
-    "a.md",
     "Anexos/Pasted image 20240111140612.png",
-    "CTFs/tryhackme/vulnnet.md",
-    "CTFs/tryhackme/Valley.md",
-    "CTFs/tryhackme/source.md",
-    "CTFs/tryhackme/ignite.md",
-    "CTFs/tryhackme/ice.md",
-    "CTFs/tryhackme/Hacker vs Hacker.md",
     "Anexos/Pasted image 20231228210516.png",
     "CTFs/portswigger",
     "CTFs/tryhackme",

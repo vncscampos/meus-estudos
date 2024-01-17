@@ -58,7 +58,7 @@ Há situações que valores que estão no cookie não são usados no cache key, 
 
 Lab: [[Web cache poisoning - unkeyed cookie]]
 
-### DOM-Based 
+### [[DOM-Based]] 
 
 Muitos websites usam JS acessar dados de maneira insegura e lançam no HTML.
 

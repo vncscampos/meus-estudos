@@ -55,7 +55,7 @@
 - [ ]  HTTP Host Header Attacks desafios: [Link](https://portswigger.net/web-security/host-header)
 - [ ]  Web cache poisoning: [Link](https://portswigger.net/web-security/web-cache-poisoning)
 - [ ]  DOM-based vulnerabilities: [Link](https://portswigger.net/web-security/dom-based)
-- [ ] JWT attacks: [Link](https://portswigger.net/web-security/jwt)
+- [x] JWT attacks: [Link](https://portswigger.net/web-security/jwt)
 - [ ]  Race Conditions: [Link](https://portswigger.net/web-security/race-conditions)
 - [ ]  GraphQL API vulnerabilities: [Link](https://portswigger.net/web-security/graphql)
 - [x]  CORS: [Link](https://portswigger.net/web-security/cors)
