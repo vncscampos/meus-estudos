@@ -86,17 +86,11 @@
 - [ ]  OWASP WrongSecrets: [Link](https://github.com/OWASP/wrongsecrets)
 - [ ]  Security CTF AWS 101: [Link](https://r00tz-ctf.awssecworkshops.com/)
 - [ ]  Attacking and Defending AWS: [Link](https://resources.tryhackme.com/attacking-and-defending-aws)
-- [ ]  PenTesting Cloud Learning: [Link](https://pentesting.cloud/)
 - [ ]  Threat and Vulnerability Management: [Link](https://tryhackme.com/module/threat-and-vulnerability-management)
 - [ ]  API PenTest: [Link](https://www.apisecuniversity.com/courses/api-penetration-testing)
 - [ ]  GOAD (Game of Active Directory): [Link](https://github.com/Orange-Cyberdefense/GOAD)
 - [ ]  Introduction To Honeypots: [Link](https://tryhackme.com/room/introductiontohoneypots)
 - [ ]  HTTP Desync Attacks: Request Smuggling Reborn: [Li](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#demo)
-
-## Web Security and JWT:
-
-- [ ]  JWT Hacking Challenges: [Link](https://github.com/onsecru/jwt-hacking-challenges), [Link](https://systemweakness.com/hacking-jwt-3324cba98210)
-- [ ]  JWT Security: [Link](https://portswigger.net/web-security/jwt)
 
 ## Forensics
 

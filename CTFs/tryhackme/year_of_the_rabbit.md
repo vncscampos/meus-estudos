@@ -1,3 +1,4 @@
+#ctf
 # Year of the Rabbit
 https://tryhackme.com/room/yearoftherabbit
 

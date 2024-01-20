@@ -1,3 +1,4 @@
+#ctf
 ## NMAP
      80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
      |_http-generator: WordPress 5.0

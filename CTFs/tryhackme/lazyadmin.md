@@ -1,3 +1,4 @@
+#ctf
 # Lazy Admin
 https://tryhackme.com/room/lazyadmin
 

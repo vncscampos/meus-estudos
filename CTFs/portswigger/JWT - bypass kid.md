@@ -1,3 +1,5 @@
+#ctf
+
 https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-kid-header-path-traversal
 
 1. Gerar um key simétrica com `JWT Key Editor`

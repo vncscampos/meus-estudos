@@ -1,3 +1,4 @@
+#ctf
 # Wgel CTF
 https://tryhackme.com/room/wgelctf
 

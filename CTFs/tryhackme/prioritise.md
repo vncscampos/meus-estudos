@@ -1,3 +1,4 @@
+#ctf
 https://tryhackme.com/room/prioritise
 
 Só rodar os comandos abaixo

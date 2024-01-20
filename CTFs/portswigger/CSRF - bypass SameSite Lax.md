@@ -1,3 +1,5 @@
+#ctf
+
 https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-lax-bypass-via-method-override
 
 ```html

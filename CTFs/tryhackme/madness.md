@@ -1,3 +1,4 @@
+#ctf
 # Madness
 https://tryhackme.com/room/madness
 

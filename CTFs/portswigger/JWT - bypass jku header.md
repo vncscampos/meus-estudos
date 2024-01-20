@@ -1,3 +1,4 @@
+#ctf
 
 https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-jku-header-injection
 

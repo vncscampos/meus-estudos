@@ -1,3 +1,4 @@
+#ctf
 https://tryhackme.com/room/cyborgt8
 
 ## Recon

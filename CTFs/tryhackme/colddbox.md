@@ -1,3 +1,4 @@
+#ctf
 # ColddBox
 https://tryhackme.com/room/colddboxeasy
 

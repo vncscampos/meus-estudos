@@ -1,3 +1,5 @@
+#ctf
+
 https://portswigger.net/web-security/jwt/algorithm-confusion/lab-jwt-authentication-bypass-via-algorithm-confusion
 
 1. Para conseguir a chave pública bastar ir em `/jwks.json`

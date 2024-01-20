@@ -1,3 +1,4 @@
+#ctf
 # Koth Food CTF
 https://tryhackme.com/room/kothfoodctf
 

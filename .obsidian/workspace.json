@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "62c1c372e5275212",
+        "id": "d6f250b1cd0512fb",
         "type": "tabs",
         "children": [
           {
-            "id": "0af519501bfda2cd",
+            "id": "ffbc703ea0805c0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTFs/tryhackme/prioritise.md",
+                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTFs/tryhackme/prioritise.md",
+                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTFs/tryhackme/prioritise.md",
+                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTFs/tryhackme/prioritise.md"
+                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md"
               }
             }
           }
@@ -146,45 +146,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0af519501bfda2cd",
+  "active": "ffbc703ea0805c0a",
   "lastOpenFiles": [
-    "todo-list.md",
-    "CTFs/tryhackme/prioritise.md",
     "Web/CSRF.md",
-    "Web/Directory Transversal.md",
-    "Web/DOM-Based.md",
-    "Web/Host header injection.md",
-    "Web/JWT.md",
-    "Web/Web cache poisoning.md",
-    "CTFs/portswigger/Web cache poisoning - with an unkeyed header.md",
-    "CTFs/portswigger/Web cache poisoning - unkeyed cookie.md",
-    "CTFs/portswigger/Web cache poisoning - DOM-based.md",
     "Web/CORS.md",
-    "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
-    "API Penetration Testing/Módulo 3 - Scan de API.md",
-    "API Penetration Testing/Módulo 4 - Ataque de autenticação.md",
-    "API Penetration Testing/Módulo 5 - API Authorization.md",
-    "CTFs/portswigger/JWT - algorithm confusion.md",
-    "CTFs/portswigger/JWT - bypass kid.md",
-    "CTFs/portswigger/JWT - bypass jku header.md",
-    "Web/Directoy Transversal.md",
+    "Web/JWT.md",
+    "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
+    "Web/DOM-Based.md",
+    "Web/Directory Transversal.md",
     "Web/SOP.md",
-    "Anexos/Pasted image 20240116135541.png",
-    "Anexos/Pasted image 20240116113515.png",
-    "Anexos/Pasted image 20240116112200.png",
-    "API Penetration Testing/Módulo 1 - Reconhecimento.md",
-    "Anexos/Pasted image 20240116111726.png",
-    "Anexos/Pasted image 20240115212538.png",
-    "Anexos/Pasted image 20240115140745.png",
-    "EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md",
+    "Web/Host header injection.md",
+    "CTFs/portswigger/SSRF - whitelist-based input filter.md",
+    "todo-list.md",
+    "API Penetration Testing/Módulo 8 - SSRF.md",
+    "API Penetration Testing/Módulo 7 - Atribuição em massa.md",
     "EHE (EC-Council)/Módulo 3 - Ameaças e vulnerabilidades.md",
-    "EHE (EC-Council)/Módulo 4 - Quebra de senhas e contramedidas.md",
-    "EHE (EC-Council)/Módulo 5 - Engenharia social.md",
-    "Anexos/Pasted image 20231218150350.png",
-    "Sem título.canvas",
-    "API Penetration Testing",
+    "CTFs/tryhackme/vulnnet.md",
+    "CTFs/tryhackme/Valley.md",
+    "CTFs/tryhackme/source.md",
+    "CTFs/tryhackme/picklerick.md",
+    "CTFs/tryhackme/prioritise.md",
+    "CTFs/tryhackme/all_in_one.md",
+    "CTFs/tryhackme/basic_pentesting.md",
+    "CTFs/tryhackme/colddbox.md",
+    "CTFs/tryhackme/blog.md",
+    "CTFs/tryhackme/b99.md",
+    "CTFs/portswigger/JWT - bypass jku header.md",
+    "Web/Web cache poisoning.md",
+    "CTFs/portswigger/JWT - algorithm confusion.md",
+    "Anexos/Pasted image 20240115140745.png",
     "Anexos/Pasted image 20240111140612.png",
     "Anexos/Pasted image 20231228210516.png",
+    "Anexos/Pasted image 20231218150350.png",
+    "Anexos/Pasted image 20240118132753.png",
+    "Anexos/Pasted image 20240118111517.png",
+    "Anexos/Pasted image 20240118111947.png",
+    "Pasted image 20240118111644.png",
+    "Anexos/Pasted image 20240116135541.png",
+    "Anexos/Pasted image 20240116113515.png",
+    "Sem título.canvas",
+    "API Penetration Testing",
     "CTFs/portswigger",
     "CTFs/tryhackme",
     "EHE (EC-Council)",
