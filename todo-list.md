@@ -9,7 +9,7 @@
 - [ ]  VulnNet dotjar: [Link](https://tryhackme.com/room/vulnnetdotjar)
 - [ ]  VulnNet dotpy: [](https://tryhackme.com/room/vulnnetdotjar)[Link](https://tryhackme.com/room/vulnnetdotpy)
 - [ ]  VulnNet endgame: [](https://tryhackme.com/room/vulnnetdotjar)[Link](https://tryhackme.com/room/vulnnetendgame)
-- [ ]  Bookstore: [Link](https://tryhackme.com/room/bookstoreoc)
+- [x]  Bookstore: [Link](https://tryhackme.com/room/bookstoreoc)
 - [ ]  Thats the tickets: [Link](https://tryhackme.com/room/thatstheticket)
 - [ ]  NoSQL injection basics: [Link](https://tryhackme.com/room/nosqlinjectiontutorial)
 
@@ -87,7 +87,7 @@
 - [ ]  Security CTF AWS 101: [Link](https://r00tz-ctf.awssecworkshops.com/)
 - [ ]  Attacking and Defending AWS: [Link](https://resources.tryhackme.com/attacking-and-defending-aws)
 - [ ]  Threat and Vulnerability Management: [Link](https://tryhackme.com/module/threat-and-vulnerability-management)
-- [ ]  API PenTest: [Link](https://www.apisecuniversity.com/courses/api-penetration-testing)
+- [x]  API PenTest: [Link](https://www.apisecuniversity.com/courses/api-penetration-testing)
 - [ ]  GOAD (Game of Active Directory): [Link](https://github.com/Orange-Cyberdefense/GOAD)
 - [ ]  Introduction To Honeypots: [Link](https://tryhackme.com/room/introductiontohoneypots)
 - [ ]  HTTP Desync Attacks: Request Smuggling Reborn: [Li](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#demo)

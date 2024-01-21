@@ -1,4 +1,5 @@
-#api
+#api #techniques 
+
 - Os scans de API não são muito confiáveis, geram muito falsos-negativos principalmente quando uma varredura genérica é feita em APIs web.
 - Eles fazem um trabalho razoável em detectar **Security Misconfiguration**
 

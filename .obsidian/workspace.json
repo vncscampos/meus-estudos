@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f250b1cd0512fb",
+        "id": "574fa90b8e2e2b9f",
         "type": "tabs",
         "children": [
           {
-            "id": "ffbc703ea0805c0a",
+            "id": "7c3be8658e853242",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "right": {
     "id": "cfdaa5c43f57fa08",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CTFs/portswigger/CSRF - bypass SameSite Lax.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,34 +139,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ffbc703ea0805c0a",
+  "active": "7c3be8658e853242",
   "lastOpenFiles": [
+    "Técnicas/Fuzzing.md",
+    "CTFs/tryhackme/Bookstore.md",
+    "todo-list.md",
+    "API Penetration Testing/Módulo 8 - SSRF.md",
+    "API Penetration Testing/Módulo 10 - Técnicas de evasão.md",
+    "API Penetration Testing/Módulo 9 - Injection.md",
+    "API Penetration Testing/Módulo 7 - Atribuição em massa.md",
+    "API Penetration Testing/Módulo 6 - Gestão imprópria de ativos.md",
+    "API Penetration Testing/Módulo 5 - API Authorization.md",
+    "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
+    "API Penetration Testing/Módulo 1 - Reconhecimento.md",
+    "API Penetration Testing/Módulo 3 - Scan de API.md",
+    "API Penetration Testing/Módulo 4 - Ataque de autenticação.md",
+    "Anexos/Pasted image 20240120143739.png",
+    "Web/Command Injection.md",
+    "Web/NoSQLi.md",
+    "Web/SQL Injection.md",
+    "Técnicas",
+    "CTFs/bugbountyhunter/There's cross site request forgery (CSRF) protection, but how good is it?.md",
+    "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
+    "CTFs/bugbountyhunter",
     "Web/CSRF.md",
     "Web/CORS.md",
     "Web/JWT.md",
-    "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
     "Web/DOM-Based.md",
     "Web/Directory Transversal.md",
     "Web/SOP.md",
     "Web/Host header injection.md",
     "CTFs/portswigger/SSRF - whitelist-based input filter.md",
-    "todo-list.md",
-    "API Penetration Testing/Módulo 8 - SSRF.md",
-    "API Penetration Testing/Módulo 7 - Atribuição em massa.md",
-    "EHE (EC-Council)/Módulo 3 - Ameaças e vulnerabilidades.md",
-    "CTFs/tryhackme/vulnnet.md",
-    "CTFs/tryhackme/Valley.md",
-    "CTFs/tryhackme/source.md",
-    "CTFs/tryhackme/picklerick.md",
-    "CTFs/tryhackme/prioritise.md",
-    "CTFs/tryhackme/all_in_one.md",
-    "CTFs/tryhackme/basic_pentesting.md",
-    "CTFs/tryhackme/colddbox.md",
-    "CTFs/tryhackme/blog.md",
-    "CTFs/tryhackme/b99.md",
-    "CTFs/portswigger/JWT - bypass jku header.md",
-    "Web/Web cache poisoning.md",
-    "CTFs/portswigger/JWT - algorithm confusion.md",
     "Anexos/Pasted image 20240115140745.png",
     "Anexos/Pasted image 20240111140612.png",
     "Anexos/Pasted image 20231228210516.png",
@@ -183,7 +179,6 @@
     "Anexos/Pasted image 20240118111947.png",
     "Pasted image 20240118111644.png",
     "Anexos/Pasted image 20240116135541.png",
-    "Anexos/Pasted image 20240116113515.png",
     "Sem título.canvas",
     "API Penetration Testing",
     "CTFs/portswigger",
@@ -192,8 +187,6 @@
     "CTFs/portswigger",
     "CTFs",
     "Anexos",
-    "Web",
-    "Redes",
-    "Sistemas Operacionais"
+    "Web"
   ]
 }
