@@ -4,19 +4,34 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Red Team\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Blue Team\"              ",
+      "color": {
+        "a": 1,
+        "rgb": 6343127
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": true,
   "centerStrength": 0.46875,
   "repelStrength": 9.58333333333333,
   "linkStrength": 0.84375,
   "linkDistance": 285,
-  "scale": 0.4444444444444444,
-  "close": true
+  "scale": 0.2962962962962963,
+  "close": false
 }

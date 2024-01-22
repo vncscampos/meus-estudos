@@ -43,7 +43,7 @@ Lab: [[JWT - bypass jku header]]
 
 #### Via kid
 
-Alguns servidores armazenam várias chaves públicas e para identificar qual será usada é necessário o parâmetro `kid`. Esse parâmetro não possui uma especificação definida pelo JWS para sua estrutura, ou seja, fica a critério do desenvolvedor. Com isso, a `kid`pode ser um valor arbitrário ou até mesmo o caminho para um arquivo presente no servidor. Se esse parâmetro for vulnerável à [[Directory Transversal]] é possível forçar o fraudar o token.
+Alguns servidores armazenam várias chaves públicas e para identificar qual será usada é necessário o parâmetro `kid`. Esse parâmetro não possui uma especificação definida pelo JWS para sua estrutura, ou seja, fica a critério do desenvolvedor. Com isso, a `kid`pode ser um valor arbitrário ou até mesmo o caminho para um arquivo presente no servidor. Se esse parâmetro for vulnerável à [[Directory Transversal e LFI]] é possível forçar o fraudar o token.
 
 Lab: [[JWT - bypass kid]]
 

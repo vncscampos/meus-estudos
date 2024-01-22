@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "574fa90b8e2e2b9f",
+        "id": "f9d29171d47a4725",
         "type": "tabs",
         "children": [
           {
-            "id": "7c3be8658e853242",
+            "id": "56f68c0733fa0b7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Red Team/Web/Web cache poisoning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Web",
+                "query": "tag:#ctf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cfdaa5c43f57fa08",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Team/Web/Web cache poisoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Red Team/Web/Web cache poisoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Team/Web/Web cache poisoning.md"
+              }
             }
           }
         ]
@@ -139,54 +146,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7c3be8658e853242",
+  "active": "56f68c0733fa0b7b",
   "lastOpenFiles": [
-    "Técnicas/Fuzzing.md",
-    "CTFs/tryhackme/Bookstore.md",
+    "Red Team/Web/SSRF.md",
+    "Red Team/Web/SQL Injection.md",
+    "Red Team/Web/SOP.md",
+    "Red Team/Web/JWT.md",
+    "Red Team/Web/Host header injection.md",
+    "Red Team/Web/DOM-Based.md",
+    "Red Team/Web/Directory Transversal e LFI.md",
+    "Red Team/Web/CSRF.md",
+    "Red Team/CTFs/portswigger/CSRF - bypass SameSite Lax.md",
+    "Red Team/Web/CORS.md",
+    "Red Team/Web/Command Injection.md",
     "todo-list.md",
-    "API Penetration Testing/Módulo 8 - SSRF.md",
-    "API Penetration Testing/Módulo 10 - Técnicas de evasão.md",
-    "API Penetration Testing/Módulo 9 - Injection.md",
-    "API Penetration Testing/Módulo 7 - Atribuição em massa.md",
-    "API Penetration Testing/Módulo 6 - Gestão imprópria de ativos.md",
-    "API Penetration Testing/Módulo 5 - API Authorization.md",
-    "API Penetration Testing/Módulo 2 - Análise de endpoint.md",
-    "API Penetration Testing/Módulo 1 - Reconhecimento.md",
-    "API Penetration Testing/Módulo 3 - Scan de API.md",
-    "API Penetration Testing/Módulo 4 - Ataque de autenticação.md",
+    "Red Team/Técnicas/Técnicas de evasão.md",
+    "Red Team/Técnicas/Scan de API.md",
+    "Red Team/Técnicas/Fuzzing.md",
+    "Red Team/Técnicas/Análise de endpoint.md",
+    "Red Team/EHE (EC-Council)/Módulo 1 - SI Fundamentos.md",
+    "Red Team/API Penetration Testing/Ataque de autenticação.md",
+    "Red Team/API Penetration Testing/API Authorization.md",
+    "Red Team/API Penetration Testing/Injection.md",
+    "Red Team/API Penetration Testing/Atribuição em massa.md",
+    "Red Team/API Penetration Testing/Gestão imprópria de ativos.md",
+    "Red Team/EHE (EC-Council)/Módulo 8 - Ataque em wireless e contramedidas.md",
+    "Red Team/EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md",
+    "Red Team/EHE (EC-Council)/Módulo 3 - Ameaças e vulnerabilidades.md",
+    "Red Team/Web/NoSQLi.md",
+    "Anexos/Pasted image 20240122170127.png",
+    "Pasted image 20240122170035.png",
+    "Anexos/Pasted image 20240118111517.png",
+    "Anexos/Pasted image 20240118111947.png",
     "Anexos/Pasted image 20240120143739.png",
-    "Web/Command Injection.md",
-    "Web/NoSQLi.md",
-    "Web/SQL Injection.md",
-    "Técnicas",
-    "CTFs/bugbountyhunter/There's cross site request forgery (CSRF) protection, but how good is it?.md",
-    "CTFs/portswigger/CSRF - bypass SameSite Lax.md",
-    "CTFs/bugbountyhunter",
-    "Web/CSRF.md",
-    "Web/CORS.md",
-    "Web/JWT.md",
-    "Web/DOM-Based.md",
-    "Web/Directory Transversal.md",
-    "Web/SOP.md",
-    "Web/Host header injection.md",
-    "CTFs/portswigger/SSRF - whitelist-based input filter.md",
     "Anexos/Pasted image 20240115140745.png",
     "Anexos/Pasted image 20240111140612.png",
     "Anexos/Pasted image 20231228210516.png",
     "Anexos/Pasted image 20231218150350.png",
+    "Blue Team/Cyber Threat Management (Cisco)",
+    "Blue Team",
+    "Red Team",
+    "Red Team/Técnicas",
+    "Red Team/CTFs/bugbountyhunter",
     "Anexos/Pasted image 20240118132753.png",
-    "Anexos/Pasted image 20240118111517.png",
-    "Anexos/Pasted image 20240118111947.png",
-    "Pasted image 20240118111644.png",
-    "Anexos/Pasted image 20240116135541.png",
     "Sem título.canvas",
-    "API Penetration Testing",
-    "CTFs/portswigger",
-    "CTFs/tryhackme",
-    "EHE (EC-Council)",
-    "CTFs/portswigger",
-    "CTFs",
-    "Anexos",
-    "Web"
+    "Red Team/API Penetration Testing",
+    "Red Team/CTFs/portswigger",
+    "Red Team/CTFs/tryhackme",
+    "Red Team/EHE (EC-Council)",
+    "Red Team/CTFs/portswigger"
   ]
 }
