@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f9d29171d47a4725",
+        "id": "6f7ffc38f1c15bb3",
         "type": "tabs",
         "children": [
           {
-            "id": "56f68c0733fa0b7b",
+            "id": "f32cc561758e1a7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Team/Web/Web cache poisoning.md",
+                "file": "Red Team/Web/XSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2e56c0149aa48cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Team/Técnicas/Técnicas de evasão.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ctf",
+                "query": "tag:#vuln",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/Web/Web cache poisoning.md",
+                "file": "Red Team/Técnicas/Técnicas de evasão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/Web/Web cache poisoning.md",
+                "file": "Red Team/Técnicas/Técnicas de evasão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Team/Web/Web cache poisoning.md"
+                "file": "Red Team/Técnicas/Técnicas de evasão.md"
               }
             }
           }
@@ -146,34 +159,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "56f68c0733fa0b7b",
+  "active": "a2e56c0149aa48cc",
   "lastOpenFiles": [
-    "Red Team/Web/SSRF.md",
-    "Red Team/Web/SQL Injection.md",
-    "Red Team/Web/SOP.md",
-    "Red Team/Web/JWT.md",
-    "Red Team/Web/Host header injection.md",
-    "Red Team/Web/DOM-Based.md",
-    "Red Team/Web/Directory Transversal e LFI.md",
-    "Red Team/Web/CSRF.md",
-    "Red Team/CTFs/portswigger/CSRF - bypass SameSite Lax.md",
-    "Red Team/Web/CORS.md",
-    "Red Team/Web/Command Injection.md",
-    "todo-list.md",
-    "Red Team/Técnicas/Técnicas de evasão.md",
-    "Red Team/Técnicas/Scan de API.md",
-    "Red Team/Técnicas/Fuzzing.md",
-    "Red Team/Técnicas/Análise de endpoint.md",
-    "Red Team/EHE (EC-Council)/Módulo 1 - SI Fundamentos.md",
-    "Red Team/API Penetration Testing/Ataque de autenticação.md",
-    "Red Team/API Penetration Testing/API Authorization.md",
-    "Red Team/API Penetration Testing/Injection.md",
     "Red Team/API Penetration Testing/Atribuição em massa.md",
     "Red Team/API Penetration Testing/Gestão imprópria de ativos.md",
-    "Red Team/EHE (EC-Council)/Módulo 8 - Ataque em wireless e contramedidas.md",
-    "Red Team/EHE (EC-Council)/Módulo 6 - Ataque em rede e contramedidas.md",
+    "Red Team/API Penetration Testing/Injection.md",
+    "Red Team/CTFs/hackthebox/LoveTok.md",
+    "todo-list.md",
+    "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write.md",
+    "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write inside select element.md",
+    "Red Team/CTFs/portswigger/XSS - DOM XSS in innerHTML.md",
+    "Red Team/CTFs/portswigger/XSS - DOM XSS in jQuery selector sink.md",
+    "Red Team/CTFs/portswigger/XSS - Reflected DOM XSS.md",
+    "Red Team/CTFs/portswigger/XSS - Reflected XSS protected by CSP with dangling markup.md",
+    "Red Team/CTFs/portswigger/XSS - Reflected XSS protected by CSP, with bypass.md",
+    "Red Team/Web/XSS.md",
+    "Red Team/CTFs/portswigger/XSS - Reflected XSS with attr blocked.md",
+    "Sem título.md",
+    "Red Team/CTFs/portswigger/Host header injection - password reset via dangling markup.md",
+    "Red Team/CTFs/portswigger/CSRF - bypass SameSite Lax.md",
+    "Red Team/CTFs/portswigger/SSRF - whitelist-based input filter.md",
+    "Red Team/CTFs/bugbountyhunter/There's cross site request forgery (CSRF) protection, but how good is it?.md",
+    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
+    "Red Team/CTFs/bugbountyhunter/Can you find any XSS? No HTML tags allowed!.md",
+    "Red Team/Web/CSRF.md",
+    "Blue Team/Cyber Threat Management (Cisco)/Módulo 1 - Governança e conformidade.md",
+    "Blue Team/Endpoint Security (Cisco)/Módulo 1 - Ameaças, vulnerabilidades e ataques.md",
+    "Blue Team/Endpoint Security (Cisco)",
+    "Blue Team/Cyber Threat Management (Cisco)/Módulo 2 - Teste de segurança de rede.md",
     "Red Team/EHE (EC-Council)/Módulo 3 - Ameaças e vulnerabilidades.md",
-    "Red Team/Web/NoSQLi.md",
+    "Red Team/CTFs/hackthebox",
     "Anexos/Pasted image 20240122170127.png",
     "Pasted image 20240122170035.png",
     "Anexos/Pasted image 20240118111517.png",
@@ -192,8 +207,6 @@
     "Sem título.canvas",
     "Red Team/API Penetration Testing",
     "Red Team/CTFs/portswigger",
-    "Red Team/CTFs/tryhackme",
-    "Red Team/EHE (EC-Council)",
-    "Red Team/CTFs/portswigger"
+    "Red Team/CTFs/tryhackme"
   ]
 }
