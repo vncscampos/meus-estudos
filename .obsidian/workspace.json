@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7ffc38f1c15bb3",
+        "id": "7c1e6a78cf092257",
         "type": "tabs",
         "children": [
           {
-            "id": "f32cc561758e1a7b",
+            "id": "274ea96cb473c40a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a2e56c0149aa48cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Team/Técnicas/Técnicas de evasão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/Técnicas/Técnicas de evasão.md",
+                "file": "Red Team/Web/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/Técnicas/Técnicas de evasão.md",
+                "file": "Red Team/Web/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Team/Técnicas/Técnicas de evasão.md"
+                "file": "Red Team/Web/XSS.md"
               }
             }
           }
@@ -159,13 +146,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a2e56c0149aa48cc",
+  "active": "274ea96cb473c40a",
   "lastOpenFiles": [
+    "todo-list.md",
+    "Red Team/Web/NoSQLi.md",
+    "Red Team/Web/Web cache poisoning.md",
+    "Red Team/CTFs/portswigger/Web cache poisoning - DOM-based.md",
+    "Red Team/Web/SSRF.md",
+    "Red Team/Web/CSRF.md",
+    "Red Team/Web/Directory Transversal e LFI.md",
+    "Red Team/Web/DOM-Based.md",
+    "Red Team/Web/Host header injection.md",
+    "Red Team/Web/JWT.md",
+    "Red Team/Web/SOP.md",
+    "Red Team/Web/SQL Injection.md",
+    "Red Team/Web/XSS.md",
+    "Red Team/Técnicas/Técnicas de evasão.md",
     "Red Team/API Penetration Testing/Atribuição em massa.md",
     "Red Team/API Penetration Testing/Gestão imprópria de ativos.md",
     "Red Team/API Penetration Testing/Injection.md",
     "Red Team/CTFs/hackthebox/LoveTok.md",
-    "todo-list.md",
     "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write.md",
     "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write inside select element.md",
     "Red Team/CTFs/portswigger/XSS - DOM XSS in innerHTML.md",
@@ -173,21 +173,8 @@
     "Red Team/CTFs/portswigger/XSS - Reflected DOM XSS.md",
     "Red Team/CTFs/portswigger/XSS - Reflected XSS protected by CSP with dangling markup.md",
     "Red Team/CTFs/portswigger/XSS - Reflected XSS protected by CSP, with bypass.md",
-    "Red Team/Web/XSS.md",
     "Red Team/CTFs/portswigger/XSS - Reflected XSS with attr blocked.md",
-    "Sem título.md",
-    "Red Team/CTFs/portswigger/Host header injection - password reset via dangling markup.md",
-    "Red Team/CTFs/portswigger/CSRF - bypass SameSite Lax.md",
-    "Red Team/CTFs/portswigger/SSRF - whitelist-based input filter.md",
-    "Red Team/CTFs/bugbountyhunter/There's cross site request forgery (CSRF) protection, but how good is it?.md",
-    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
-    "Red Team/CTFs/bugbountyhunter/Can you find any XSS? No HTML tags allowed!.md",
-    "Red Team/Web/CSRF.md",
-    "Blue Team/Cyber Threat Management (Cisco)/Módulo 1 - Governança e conformidade.md",
-    "Blue Team/Endpoint Security (Cisco)/Módulo 1 - Ameaças, vulnerabilidades e ataques.md",
     "Blue Team/Endpoint Security (Cisco)",
-    "Blue Team/Cyber Threat Management (Cisco)/Módulo 2 - Teste de segurança de rede.md",
-    "Red Team/EHE (EC-Council)/Módulo 3 - Ameaças e vulnerabilidades.md",
     "Red Team/CTFs/hackthebox",
     "Anexos/Pasted image 20240122170127.png",
     "Pasted image 20240122170035.png",

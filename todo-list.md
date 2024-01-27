@@ -45,7 +45,7 @@
 ## Portswigger Academy - Web Security:
 
 - [x]  Information Disclosure: [Link](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-in-error-messages)
-- [ ]  XSS: [Link](https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded)
+- [x]  XSS: [Link](https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded)
 - [ ]  XXE: [Link](https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files)
 - [x]  SSRF: [Link](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system)
 - [x]  OS Command Injection: [Link](https://portswigger.net/web-security/os-command-injection/lab-simple)
