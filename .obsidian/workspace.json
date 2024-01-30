@@ -4,16 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7c1e6a78cf092257",
+        "id": "bd3c290e66c9d9b1",
         "type": "tabs",
         "children": [
           {
-            "id": "274ea96cb473c40a",
+            "id": "afdd7d968f9c884a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Red Team/Recon/Recon.canvas",
+                "viewState": {
+                  "x": -4.798199544146939,
+                  "y": 378.51857510045613,
+                  "zoom": -0.8554951125917037
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d414d1a4790161cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Team/Web/XSS.md",
+                "file": "Red Team/Recon/Informação do alvo.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vuln",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/Web/XSS.md",
+                "file": "Red Team/Recon/Recon.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/Web/XSS.md",
+                "file": "Red Team/Recon/Recon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Team/Web/XSS.md"
+                "file": "Red Team/Recon/Recon.canvas"
               }
             }
           }
@@ -146,34 +163,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "274ea96cb473c40a",
+  "active": "afdd7d968f9c884a",
   "lastOpenFiles": [
+    "Red Team/Recon/Informação do alvo.md",
+    "Red Team/Recon/Enumeração de subdomínios.md",
+    "Red Team/Recon/Recon.canvas",
+    "Red Team/Recon/OSINT.md",
+    "Red Team/Recon/Subdomain Takeover.md",
+    "Red Team/Recon/NMAP.md",
+    "Anexos/nmap_response.png",
+    "Red Team/Técnicas/Fuzzing.md",
+    "Red Team/Recon",
+    "Red Team/Técnicas/Engenharia reversa de API.md",
+    "Red Team/Técnicas/Técnicas de evasão.md",
+    "Red Team/Técnicas/Scan de API.md",
+    "NMAP.md",
     "todo-list.md",
+    "Red Team/Técnicas/Zatta é uma viado mesmo não tem jeito.md",
+    "skinport/Control Access.md",
+    "skinport/Overview.md",
+    "skinport",
+    "Red Team/API Penetration Testing/Injection.md",
+    "Red Team/API Penetration Testing/Gestão imprópria de ativos.md",
+    "Red Team/API Penetration Testing/Atribuição em massa.md",
+    "Red Team/API Penetration Testing/Ataque de autenticação.md",
+    "Red Team/API Penetration Testing/API Authorization.md",
+    "Red Team/Web/XSS.md",
+    "roe.at.md",
     "Red Team/Web/NoSQLi.md",
     "Red Team/Web/Web cache poisoning.md",
     "Red Team/CTFs/portswigger/Web cache poisoning - DOM-based.md",
     "Red Team/Web/SSRF.md",
-    "Red Team/Web/CSRF.md",
-    "Red Team/Web/Directory Transversal e LFI.md",
-    "Red Team/Web/DOM-Based.md",
-    "Red Team/Web/Host header injection.md",
-    "Red Team/Web/JWT.md",
-    "Red Team/Web/SOP.md",
-    "Red Team/Web/SQL Injection.md",
-    "Red Team/Web/XSS.md",
-    "Red Team/Técnicas/Técnicas de evasão.md",
-    "Red Team/API Penetration Testing/Atribuição em massa.md",
-    "Red Team/API Penetration Testing/Gestão imprópria de ativos.md",
-    "Red Team/API Penetration Testing/Injection.md",
-    "Red Team/CTFs/hackthebox/LoveTok.md",
-    "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write.md",
-    "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write inside select element.md",
-    "Red Team/CTFs/portswigger/XSS - DOM XSS in innerHTML.md",
-    "Red Team/CTFs/portswigger/XSS - DOM XSS in jQuery selector sink.md",
-    "Red Team/CTFs/portswigger/XSS - Reflected DOM XSS.md",
-    "Red Team/CTFs/portswigger/XSS - Reflected XSS protected by CSP with dangling markup.md",
-    "Red Team/CTFs/portswigger/XSS - Reflected XSS protected by CSP, with bypass.md",
-    "Red Team/CTFs/portswigger/XSS - Reflected XSS with attr blocked.md",
     "Blue Team/Endpoint Security (Cisco)",
     "Red Team/CTFs/hackthebox",
     "Anexos/Pasted image 20240122170127.png",
@@ -190,10 +210,6 @@
     "Red Team",
     "Red Team/Técnicas",
     "Red Team/CTFs/bugbountyhunter",
-    "Anexos/Pasted image 20240118132753.png",
-    "Sem título.canvas",
-    "Red Team/API Penetration Testing",
-    "Red Team/CTFs/portswigger",
-    "Red Team/CTFs/tryhackme"
+    "Red Team/API Penetration Testing"
   ]
 }

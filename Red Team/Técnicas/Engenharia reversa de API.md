@@ -1,5 +1,4 @@
 #api #techniques 
-## Engenharia reversa de API
 
 Quando a doc de uma API não é pública, o que nos resta é consumir essa API e descobrir os endpoints para criar uma doc.
 
