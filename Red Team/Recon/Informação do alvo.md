@@ -1,7 +1,6 @@
 #recon 
 
-
-**Objetivo**: coletar todas informações possíveis -> domínio, *acquisitions*, informações sobre registros, ASN, DNS etc.
+**Objetivo**: Conhecer o alvo, coletando todas as informações possíveis
 
 ## OSINT
 

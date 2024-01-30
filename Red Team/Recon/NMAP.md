@@ -1,5 +1,6 @@
 #recon 
 
+**Objetivo:** Identificar hosts e descobrir as portas abertas
 ## Identificar hosts ativos
 
 ```shell

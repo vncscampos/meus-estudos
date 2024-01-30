@@ -1,5 +1,6 @@
 #recon 
 
+**Objetivo:** Aumentar a superfície de ataque
 ## Passivo
 
 Sem contato direto com alvo.

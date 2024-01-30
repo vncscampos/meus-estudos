@@ -1,5 +1,7 @@
 #recon #vuln 
 
+**Objetivo:** Tomar posse de um subdomínio
+
 Este ataque ocorre quando o invasor consegue controlar um subdomínio. Alguma das causas são:
 
 - Um subdomínio pode ser associado a um serviço cloud (AWS S3, Heroku, Github Pages) e o proprietário desativou ou removeu a configuração do serviço;
