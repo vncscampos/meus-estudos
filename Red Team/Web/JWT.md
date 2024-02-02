@@ -50,7 +50,7 @@ Lab: [[JWT - bypass kid]]
 ### Ataques de confusão de algoritmo
 
 Existem dois tipos de algoritmo usado no token:
-- **SImétrico**: utiliza apenas uma chave, é o caso do HS256 (HMAC + SHA-256).
+- **Simétrico**: utiliza apenas uma chave, é o caso do HS256 (HMAC + SHA-256).
 - **Assimétrico:** utiliza uma chave privada para assinar o token quando criado, e uma chave pública para verificar a assinatura, é o caso do RS256 (RSA + SHA-256).
 
 Esse ataque ocorre quando o dev assume que vai sempre vim token feito com algoritmo configurado, por exemplo, o token foi assinado com base no algoritmo RS256 mas o servidor recebe um token simétrico como HS256, e assim a chave pública passada vai ser tratada como uma *secret*.

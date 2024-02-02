@@ -16,15 +16,57 @@
               "state": {
                 "file": "Red Team/Recon/Recon.canvas",
                 "viewState": {
-                  "x": -47.5,
-                  "y": 280,
-                  "zoom": -0.683327630564133
+                  "x": 259.6134535138143,
+                  "y": 638.2068723424809,
+                  "zoom": -0.283327630564133
                 }
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f50f030eb81485e6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Red Team/Web/Teste em aplicações Web.canvas",
+                "viewState": {
+                  "x": 878.5586430791329,
+                  "y": 369.46266901274504,
+                  "zoom": -0.19999999999999984
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8729bc33a62ee24a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Team/Web/Web cache poisoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b2ea3fa5105e946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Team/Web/XSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/Recon/Recon.canvas",
+                "file": "Red Team/Web/Web cache poisoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/Recon/Recon.canvas",
+                "file": "Red Team/Web/Web cache poisoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Team/Recon/Recon.canvas"
+                "file": "Red Team/Web/Web cache poisoning.md"
               }
             }
           }
@@ -151,37 +193,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "afdd7d968f9c884a",
+  "active": "8729bc33a62ee24a",
   "lastOpenFiles": [
-    "Red Team/Recon/Scan Automatizado.md",
-    "Red Team/Recon/Recon.canvas",
+    "Red Team/Web/XSS.md",
+    "Red Team/Web/Web cache poisoning.md",
+    "Red Team/Web/CSRF.md",
+    "Red Team/CTFs/portswigger/CSRF - bypass SameSite Lax.md",
+    "Red Team/Web/Teste em aplicações Web.canvas",
+    "Red Team/Web/CORS.md",
+    "Red Team/Web/Clickjacking.md",
+    "Red Team/Web/Command Injection.md",
+    "Red Team/Web/Directory Transversal e LFI.md",
+    "Red Team/Web/DOM-Based.md",
+    "Red Team/CTFs/portswigger/Web cache poisoning - Combining vulnerabilities.md",
+    "Red Team/CTFs/portswigger/Web cache poisoning - DOM-based.md",
+    "Red Team/CTFs/portswigger/Web cache poisoning - with an unkeyed header.md",
+    "Red Team/CTFs/portswigger/Web cache poisoning - unkeyed cookie.md",
+    "Red Team/CTFs/portswigger/XSS - DOM XSS in innerHTML.md",
+    "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write inside select element.md",
+    "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write.md",
+    "todo-list.md",
+    "Red Team/CTFs/hackthebox/Neonify.md",
     "Red Team/Recon/Enumerar JS.md",
-    "Red Team/Recon/Content Discovery.md",
-    "Red Team/Técnicas/Fuzzing.md",
-    "Red Team/Recon/Wayback.md",
+    "Red Team/Recon/Recon.canvas",
     "Red Team/Recon/Subdomain Takeover.md",
-    "Red Team/Recon/NMAP.md",
-    "Red Team/Recon/Enumeração de subdomínios.md",
     "Red Team/Recon/Github.md",
-    "Red Team/Recon/Informação do alvo.md",
-    "Red Team/Técnicas/Engenharia reversa de API.md",
-    "Red Team/Técnicas/Técnicas de evasão.md",
-    "Red Team/Recon/OSINT.md",
+    "Red Team/Recon/Scan Automatizado.md",
+    "Red Team/CTFs/bugbountyhunter/There's cross site request forgery (CSRF) protection, but how good is it?.md",
+    "Red Team/CTFs/bugbountyhunter/Can you find any XSS? No HTML tags allowed!.md",
+    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
+    "Red Team/CTFs/portswigger/Clickjacking - basic clickjacking with CSRF token.md",
     "Anexos/nmap_response.png",
     "Red Team/Recon",
-    "Red Team/Técnicas/Scan de API.md",
-    "NMAP.md",
-    "todo-list.md",
-    "Red Team/Técnicas/Zatta é uma viado mesmo não tem jeito.md",
-    "skinport/Control Access.md",
-    "skinport/Overview.md",
     "skinport",
-    "Red Team/API Penetration Testing/Injection.md",
-    "Red Team/API Penetration Testing/Gestão imprópria de ativos.md",
-    "Red Team/API Penetration Testing/Atribuição em massa.md",
-    "Red Team/API Penetration Testing/Ataque de autenticação.md",
-    "Red Team/API Penetration Testing/API Authorization.md",
-    "Red Team/Web/XSS.md",
     "Blue Team/Endpoint Security (Cisco)",
     "Red Team/CTFs/hackthebox",
     "Anexos/Pasted image 20240122170127.png",

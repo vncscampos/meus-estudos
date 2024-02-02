@@ -1,4 +1,4 @@
-#web #vuln
+ #web #vuln
 
 **Cross-site request forgery** (CSRF) é uma vulnerabilidade web que permite o atacante induzir a vítima a fazer uma ação não intencional, como por exemplo alterar dados da conta, o que pode dar ao atacante acesso a esta conta.
 

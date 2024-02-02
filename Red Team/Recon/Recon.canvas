@@ -19,7 +19,7 @@
 		{"id":"46b3948a0c26b434","type":"text","text":"Whois","x":-472,"y":90,"width":125,"height":60},
 		{"id":"8eef298c6ea38988","type":"text","text":"ASN","x":-620,"y":90,"width":125,"height":60},
 		{"id":"4cdb4d9bbadf4920","type":"text","text":"DNS","x":-765,"y":90,"width":105,"height":60},
-		{"id":"84e91a88c31b2318","type":"text","text":"[[OSINT]]","x":-920,"y":90,"width":125,"height":60},
+		{"id":"84e91a88c31b2318","type":"text","text":"OSINT","x":-920,"y":90,"width":125,"height":60},
 		{"id":"2ee8d4344f5c51dd","type":"text","text":"**[[Informação do alvo]]**","x":-659,"y":-80,"width":250,"height":60,"color":"5"},
 		{"id":"1684145a56ea4f3d","type":"text","text":"Acquisitions","x":-320,"y":90,"width":180,"height":60},
 		{"id":"17718bdf9b33c1e6","type":"text","text":"**Grep**","x":417,"y":820,"width":127,"height":60,"color":"5"},

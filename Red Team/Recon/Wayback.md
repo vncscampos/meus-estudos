@@ -7,7 +7,7 @@
 Waybackurls:
 
 ```sh
-$ cat hosts.txt | waybackurls > urls.txt
+$ cat hosts.txt | waybackurls | hakcheckurl | egrep -v '404' | awk '{print $2}' > urls.txt 
 ```
 
 GetAllUrls:
@@ -28,5 +28,5 @@ $ cat urls.txt | grep api
 A ferramente [gf](https://github.com/tomnomnom/gf) é um grep mais sofisticado que permite buscar por exemplo por urls que da para testar um idor, xss...
 
 ```sh
-$ cat urls.txt | gf xss
+$ cat urls.txt | gf xss > xss_url.txt
 ```

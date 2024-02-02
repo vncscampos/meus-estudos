@@ -28,5 +28,5 @@ $ dalfox url https://site.com/?cat=123 -b https://your-callback-url
 ```
 
 ```sh
-$ cat urls.txt | dalfox pipe
+$ cat xss_urls.txt | dalfox pipe
 ```
