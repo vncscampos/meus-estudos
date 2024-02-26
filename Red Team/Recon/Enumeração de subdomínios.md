@@ -3,7 +3,7 @@
 **Objetivo:** Aumentar a superfície de ataque
 ## Passivo
 
-Sem contato direto com alvo.
+Sem contato direto com alvo. 
 
 ```
 $ sublist3r -d hackerone.com -o passive_subd.txt

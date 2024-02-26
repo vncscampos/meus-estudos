@@ -1,6 +1,6 @@
 #recon 
 
-**Objetivo:** Achar endpoints, urls, api, eval(), hard-coded credentials, vulnerabilidades etc
+**Objetivo:** Achar endpoints, URLs, APIs, hard-coded credentials, vulnerabilidades etc
 
 ### Passo 1 - Extrair JS
 
@@ -24,6 +24,10 @@ $ cat js_beauty.txt | grep api
 $ cat js_beauty.txt | grep token
 $ cat js_beauty.txt | grep admin
 ```
+
+**Keywords comum:** `api`, `apiKey`, `admin`, `token`, `url:`, `getParameter()`, `parameter`, `onreadystatechange`, `POST`, `GET`, `setRequestHeader()`, `dominio.com`, `.headers`
+
+**Keywords para achar bugs, xss, redirects:** `.innerHTML`, `document.write()`, `document.cookie`, `location.href`, `redirectUrl`, `messageListener`, `postMessage`, `windows.hash`, `eval(`
 ## Extra
 
 - Retire.js: é uma extensão do Firefox que mostra as CVEs das bibliotecas JS do site

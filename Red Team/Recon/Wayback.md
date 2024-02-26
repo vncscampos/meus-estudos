@@ -1,6 +1,6 @@
 #recon 
 
-**Objetivo:** Encontrar urls
+**Objetivo:** Encontrar urls, parâmetros que talvez ainda estejam em uso, api keys antigas e código antigo = bugs.
 
 ## Coletando todas as urls
 

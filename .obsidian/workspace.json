@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afdd7d968f9c884a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Red Team/Recon/Recon.canvas",
-                "viewState": {
-                  "x": 259.6134535138143,
-                  "y": 638.2068723424809,
-                  "zoom": -0.283327630564133
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "f50f030eb81485e6",
             "type": "leaf",
             "pinned": true,
@@ -33,8 +16,8 @@
               "state": {
                 "file": "Red Team/Web/Teste em aplicações Web.canvas",
                 "viewState": {
-                  "x": 878.5586430791329,
-                  "y": 369.46266901274504,
+                  "x": 564.7342524939427,
+                  "y": 1190.322513493626,
                   "zoom": -0.19999999999999984
                 }
               },
@@ -42,24 +25,43 @@
             }
           },
           {
-            "id": "8729bc33a62ee24a",
+            "id": "afdd7d968f9c884a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Red Team/Web/Web cache poisoning.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Red Team/Recon/Recon.canvas",
+                "viewState": {
+                  "x": 341.15236661732996,
+                  "y": 778.1744884393693,
+                  "zoom": -0.283327630564133
+                }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "5b2ea3fa5105e946",
+            "id": "aa01738e70a4ea4c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Team/Web/Insecure Deserialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4e40ce4d6c674216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Team/Web/XSS.md",
+                "file": "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/Web/Web cache poisoning.md",
+                "file": "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/Web/Web cache poisoning.md",
+                "file": "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Team/Web/Web cache poisoning.md"
+                "file": "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md"
               }
             }
           }
@@ -193,36 +195,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8729bc33a62ee24a",
+  "active": "4e40ce4d6c674216",
   "lastOpenFiles": [
-    "Red Team/Web/XSS.md",
-    "Red Team/Web/Web cache poisoning.md",
-    "Red Team/Web/CSRF.md",
-    "Red Team/CTFs/portswigger/CSRF - bypass SameSite Lax.md",
+    "Red Team/Web/Insecure Deserialization.md",
+    "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md",
+    "Red Team/CTFs/portswigger/Insecure Deserialization - Using application functionality.md",
+    "Red Team/CTFs/portswigger/JWT - bypass kid.md",
+    "Red Team/CTFs/portswigger/JWT - algorithm confusion.md",
+    "Red Team/CTFs/portswigger/Insecure Deserialiation - Arbitrary object injection PHP.md",
+    "Red Team/CTFs/portswigger/Insecure Deserialization - Modifying data types.md",
+    "Red Team/Recon/Enumerar JS.md",
+    "Red Team/Recon/Scan Automatizado.md",
+    "Red Team/Recon/Subdomain Takeover.md",
+    "Red Team/Recon/Wayback.md",
+    "Red Team/Técnicas/Técnicas de evasão.md",
+    "Red Team/Web/Host header injection.md",
     "Red Team/Web/Teste em aplicações Web.canvas",
+    "Red Team/Recon/Recon.canvas",
     "Red Team/Web/CORS.md",
-    "Red Team/Web/Clickjacking.md",
-    "Red Team/Web/Command Injection.md",
-    "Red Team/Web/Directory Transversal e LFI.md",
-    "Red Team/Web/DOM-Based.md",
+    "Red Team/CTFs/portswigger/Host header injection - password reset via dangling markup.md",
     "Red Team/CTFs/portswigger/Web cache poisoning - Combining vulnerabilities.md",
     "Red Team/CTFs/portswigger/Web cache poisoning - DOM-based.md",
     "Red Team/CTFs/portswigger/Web cache poisoning - with an unkeyed header.md",
-    "Red Team/CTFs/portswigger/Web cache poisoning - unkeyed cookie.md",
-    "Red Team/CTFs/portswigger/XSS - DOM XSS in innerHTML.md",
-    "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write inside select element.md",
-    "Red Team/CTFs/portswigger/XSS - DOM XSS in document.write.md",
+    "Red Team/Web/Directory Transversal e LFI.md",
+    "Red Team/Web/Command Injection.md",
+    "Red Team/Web/Clickjacking.md",
     "todo-list.md",
-    "Red Team/CTFs/hackthebox/Neonify.md",
-    "Red Team/Recon/Enumerar JS.md",
-    "Red Team/Recon/Recon.canvas",
-    "Red Team/Recon/Subdomain Takeover.md",
-    "Red Team/Recon/Github.md",
-    "Red Team/Recon/Scan Automatizado.md",
-    "Red Team/CTFs/bugbountyhunter/There's cross site request forgery (CSRF) protection, but how good is it?.md",
-    "Red Team/CTFs/bugbountyhunter/Can you find any XSS? No HTML tags allowed!.md",
-    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
-    "Red Team/CTFs/portswigger/Clickjacking - basic clickjacking with CSRF token.md",
+    "README.md",
+    "Red Team/Web/SSRF.md",
+    "Red Team/Web/XSS.md",
+    "Red Team/Web/SOP.md",
+    "Sem título",
+    "fuoriluogo",
     "Anexos/nmap_response.png",
     "Red Team/Recon",
     "skinport",
@@ -240,8 +244,6 @@
     "Blue Team/Cyber Threat Management (Cisco)",
     "Blue Team",
     "Red Team",
-    "Red Team/Técnicas",
-    "Red Team/CTFs/bugbountyhunter",
-    "Red Team/API Penetration Testing"
+    "Red Team/Técnicas"
   ]
 }
