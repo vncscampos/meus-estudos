@@ -22,4 +22,6 @@ $blog->user = 'user';
 $object->template_file_path = $blog;
 ```
 
-Para enviar esse arquivo, é utilizado a funcionalidade de upload de avatar, porém, ela só aceita arquivos JPG. Para burlar e enviar um PHAR
+Para enviar esse arquivo, é utilizado a funcionalidade de upload de avatar, porém, ela só aceita arquivos JPG. Para burlar e enviar um PHAR + JPEG (arquivo poliglota) usei este [repositório](https://github.com/kunte0/phar-jpg-polyglot).
+
+Fazendo o upload do arquivo poliglota e acessando em `/cgi-bin/avatar.php?avatar=phar://wiener`. GG

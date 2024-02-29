@@ -14,14 +14,16 @@ Wappalyzer:
 
 Link da api: `https://www.bugbountytraining.com/fastfoodhackings/api/`
 
-| Endpoint | Método | Parâmetro | Body |
-| ---- | ---- | ---- | ---- |
-| /fastfoodhackings/api/book.php | POST | battleofthehackers=no | email date userFN |
-| /fastfoodhackings/api/book.php | GET |  |  |
-| /fastfoodhackings/api/invites.php | GET |  |  |
-| /fastfoodhackings/api/loader.php | GET | f=/reviews.php |  |
-| /fastfoodhackings/api/loader.php | GET | f=/generate-credentials |  {"username":"test-zseano","password":"SuP3RG0OdP@ssw0rd!"} |
-| /fastfoodhackings/api/profile.php | GET | id=6b863c23-7c82-46ce-946b-1e1e895db44e<br>data=bio |  |
+| Endpoint                          | Método | Parâmetro                                           | Body                                                       |
+| --------------------------------- | ------ | --------------------------------------------------- | ---------------------------------------------------------- |
+| /fastfoodhackings/api/book.php    | POST   | battleofthehackers=no                               | email date userFN                                          |
+| /fastfoodhackings/api/book.php    | GET    |                                                     |                                                            |
+| /fastfoodhackings/api/invites.php | GET    |                                                     |                                                            |
+| /fastfoodhackings/api/loader.php  | GET    | f=/reviews.php                                      |                                                            |
+| /fastfoodhackings/api/loader.php  | GET    | f=/generate-credentials                             | {"username":"test-zseano","password":"SuP3RG0OdP@ssw0rd!"} |
+| /fastfoodhackings/api/loader.php  | GET    | f=/admin                                            |                                                            |
+| /fastfoodhackings/api/profile.php | GET    | id=6b863c23-7c82-46ce-946b-1e1e895db44e<br>data=bio |                                                            |
+| /fastfoodhackings/api/admin.php   | GET    | adToken=c0f22cf8-96ea-4fbb-8805-ee4246095031        | There use to be a flag here!                               |
 
 ### Enum JS
 
@@ -185,6 +187,11 @@ Ao usar vpn de UK é possível ver link
 ### confirmed.php
 
 Essa página aparece depois de uma ordem em `/book.php`. Existe um parâmetro em base64 `order_id` e por ele consigo ver dados de outros clientes (**IDOR**). Na ordem **42061** existe uma frase `There use to be a flag here but someone else found it :(`.
+
+### robots.txt
+
+- /admin -> `https://www.bugbountytraining.com/fastfoodhackings/api/loader.php?f=/admin`
+- /go
 ## Vulnerabilidades encontradas (são 15)
 
 - Open Redirect
@@ -193,5 +200,6 @@ Essa página aparece depois de uma ordem em `/book.php`. Existe um parâmetro em
 	- `https://www.bugbountytraining.com/fastfoodhackings/index.php?from=javascript:alert(1)`
 * Data exposure
 	* `/fastfoodhackings/api/loader.php?f=/generate-credentials`
+	* `custom-script.js` -> admin token = `c0f22cf8-96ea-4fbb-8805-ee4246095031`
 - IDOR
 	- `/fastfoodhackings/confirmed.php?order_id=NDIwNjg=`

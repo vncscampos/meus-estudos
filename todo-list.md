@@ -50,7 +50,7 @@
 - [x]  SSRF: [Link](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system)
 - [x]  OS Command Injection: [Link](https://portswigger.net/web-security/os-command-injection/lab-simple)
 - [x]  File Upload: [Link](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-web-shell-upload)
-- [ ]  Insecure Deserialization: [Link](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-modifying-serialized-data-types)
+- [x]  Insecure Deserialization: [Link](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-modifying-serialized-data-types)
 - [ ]  HTTP request smuggling: [Link](https://portswigger.net/web-security/request-smuggling)
 - [x]  HTTP Host Header Attacks desafios: [Link](https://portswigger.net/web-security/host-header)
 - [ ]  Web cache poisoning: [Link](https://portswigger.net/web-security/web-cache-poisoning)
@@ -64,6 +64,7 @@
 - [ ]  Testing for WebSockets vulnerabilities: [Link](https://portswigger.net/web-security/websockets)
 - [ ]  NoSQL Injection: [Link](https://portswigger.net/web-security/nosql-injection)
 - [x] CSRF: [Link](https://portswigger.net/web-security/csrf)
+- [ ] [Server Side Template Injection](https://portswigger.net/research/server-side-template-injection)
 
 ## VulnHub Machines:
 
@@ -90,7 +91,8 @@
 - [x]  API PenTest: [Link](https://www.apisecuniversity.com/courses/api-penetration-testing)
 - [ ]  GOAD (Game of Active Directory): [Link](https://github.com/Orange-Cyberdefense/GOAD)
 - [ ]  Introduction To Honeypots: [Link](https://tryhackme.com/room/introductiontohoneypots)
-- [ ]  HTTP Desync Attacks: Request Smuggling Reborn: [Li](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#demo)
+- [ ]  HTTP Desync Attacks: Request Smuggling Reborn: [Link](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn#demo)
+
 
 ## Forensics
 

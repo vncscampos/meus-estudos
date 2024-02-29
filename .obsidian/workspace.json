@@ -16,8 +16,8 @@
               "state": {
                 "file": "Red Team/Web/Teste em aplicações Web.canvas",
                 "viewState": {
-                  "x": 564.7342524939427,
-                  "y": 1190.322513493626,
+                  "x": 561.2753192479028,
+                  "y": 258.3700867281573,
                   "zoom": -0.19999999999999984
                 }
               },
@@ -42,13 +42,13 @@
             }
           },
           {
-            "id": "aa01738e70a4ea4c",
+            "id": "7d93d0c5d53175c9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Team/Web/Insecure Deserialization.md",
+                "file": "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
                 "mode": "source",
                 "source": false
               },
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "4e40ce4d6c674216",
+            "id": "4cef40d6edf97cf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md",
+                "file": "Red Team/CTFs/hackthebox/HTBank.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md",
+                "file": "Red Team/CTFs/hackthebox/HTBank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md",
+                "file": "Red Team/CTFs/hackthebox/HTBank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md"
+                "file": "Red Team/CTFs/hackthebox/HTBank.md"
               }
             }
           }
@@ -195,8 +195,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4e40ce4d6c674216",
+  "active": "4cef40d6edf97cf5",
   "lastOpenFiles": [
+    "Red Team/CTFs/hackthebox/Neonify.md",
+    "Red Team/CTFs/hackthebox/HTBank.md",
+    "Red Team/CTFs/hackthebox/LoveTok.md",
+    "Blue Team/DevSecOps/Métricas.md",
+    "Blue Team/DevSecOps/SDLC.md",
+    "Blue Team/DevSecOps/Introdução.md",
+    "Blue Team/DevSecOps/CALMS.md",
+    "Blue Team/Cyber Threat Management (Cisco)/Módulo 1 - Governança e conformidade.md",
+    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
+    "Anexos/Pasted image 20240229100554.png",
+    "todo-list.md",
+    "Red Team/Web/Web cache poisoning.md",
+    "Red Team/Recon/Enumerar JS.md",
+    "Red Team/Web/Teste em aplicações Web.canvas",
+    "Red Team/Recon/Recon.canvas",
+    "Anexos/Pasted image 20240227171242.png",
+    "Anexos/Pasted image 20240227171108.png",
+    "Blue Team/DevSecOps",
+    "Blue Team/Cyber Threat Management (Cisco)/Módulo 2 - Teste de segurança de rede.md",
     "Red Team/Web/Insecure Deserialization.md",
     "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md",
     "Red Team/CTFs/portswigger/Insecure Deserialization - Using application functionality.md",
@@ -204,27 +223,12 @@
     "Red Team/CTFs/portswigger/JWT - algorithm confusion.md",
     "Red Team/CTFs/portswigger/Insecure Deserialiation - Arbitrary object injection PHP.md",
     "Red Team/CTFs/portswigger/Insecure Deserialization - Modifying data types.md",
-    "Red Team/Recon/Enumerar JS.md",
     "Red Team/Recon/Scan Automatizado.md",
     "Red Team/Recon/Subdomain Takeover.md",
     "Red Team/Recon/Wayback.md",
     "Red Team/Técnicas/Técnicas de evasão.md",
     "Red Team/Web/Host header injection.md",
-    "Red Team/Web/Teste em aplicações Web.canvas",
-    "Red Team/Recon/Recon.canvas",
     "Red Team/Web/CORS.md",
-    "Red Team/CTFs/portswigger/Host header injection - password reset via dangling markup.md",
-    "Red Team/CTFs/portswigger/Web cache poisoning - Combining vulnerabilities.md",
-    "Red Team/CTFs/portswigger/Web cache poisoning - DOM-based.md",
-    "Red Team/CTFs/portswigger/Web cache poisoning - with an unkeyed header.md",
-    "Red Team/Web/Directory Transversal e LFI.md",
-    "Red Team/Web/Command Injection.md",
-    "Red Team/Web/Clickjacking.md",
-    "todo-list.md",
-    "README.md",
-    "Red Team/Web/SSRF.md",
-    "Red Team/Web/XSS.md",
-    "Red Team/Web/SOP.md",
     "Sem título",
     "fuoriluogo",
     "Anexos/nmap_response.png",
@@ -238,12 +242,8 @@
     "Anexos/Pasted image 20240118111947.png",
     "Anexos/Pasted image 20240120143739.png",
     "Anexos/Pasted image 20240115140745.png",
-    "Anexos/Pasted image 20240111140612.png",
-    "Anexos/Pasted image 20231228210516.png",
-    "Anexos/Pasted image 20231218150350.png",
     "Blue Team/Cyber Threat Management (Cisco)",
     "Blue Team",
-    "Red Team",
-    "Red Team/Técnicas"
+    "Red Team"
   ]
 }

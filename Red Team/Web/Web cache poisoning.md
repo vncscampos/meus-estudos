@@ -9,7 +9,9 @@ O web cache poisoning possui três passos:
 3. Garantir que essa resposta seja armazenada em cache
 
 **OBS:** habilitar o *cache buster* do ParamMiner evita da resposta ficar em cache, então após os testes desabilite o ParamMiner para conseguir o `X-Cache: Hit`.
-## Explorando falhas
+## Explorando falhas de design
+
+As falhas de design são relacionadas a deficiência no projeto de cache, por exemplo, a falta de mecanismos para validar a integridade do conteúdo armazenado em cache.
 
 ### [[XSS]]
 
@@ -73,6 +75,13 @@ Lab: [[Web cache poisoning - DOM-based]]
 As vezes o invasor só é capaz de provocar uma resposta maliciosa criando uma requisição com vários headers e o mesmo acontece com diferentes tipos de ataque.
 
 Lab: [[Web cache poisoning - Combining vulnerabilities]]
+
+## Explorando falhas de implementação
+
+As falhas de implementação podem surgir de erros de codificação, configurações incorretas ou outras falhas técnicas.
+
+### Unkeyed query string
+
 
 ## Referências
 https://portswigger.net/web-security/web-cache-poisoning
