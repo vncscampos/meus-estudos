@@ -54,21 +54,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4cef40d6edf97cf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Team/CTFs/hackthebox/HTBank.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/CTFs/hackthebox/HTBank.md",
+                "file": "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/CTFs/hackthebox/HTBank.md",
+                "file": "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Team/CTFs/hackthebox/HTBank.md"
+                "file": "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md"
               }
             }
           }
@@ -195,17 +183,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4cef40d6edf97cf5",
+  "active": "7d93d0c5d53175c9",
   "lastOpenFiles": [
-    "Red Team/CTFs/hackthebox/Neonify.md",
+    "Red Team/CTFs/hackthebox/ProxyAsAService.md",
     "Red Team/CTFs/hackthebox/HTBank.md",
+    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
+    "Red Team/Web/SSRF.md",
+    "Red Team/Web/CORS.md",
+    "Red Team/Web/CSRF.md",
+    "Red Team/Web/XSS.md",
+    "Red Team/Web/Host header injection.md",
+    "Red Team/CTFs/hackthebox/Neonify.md",
     "Red Team/CTFs/hackthebox/LoveTok.md",
     "Blue Team/DevSecOps/Métricas.md",
     "Blue Team/DevSecOps/SDLC.md",
     "Blue Team/DevSecOps/Introdução.md",
     "Blue Team/DevSecOps/CALMS.md",
     "Blue Team/Cyber Threat Management (Cisco)/Módulo 1 - Governança e conformidade.md",
-    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
     "Anexos/Pasted image 20240229100554.png",
     "todo-list.md",
     "Red Team/Web/Web cache poisoning.md",
@@ -223,12 +217,6 @@
     "Red Team/CTFs/portswigger/JWT - algorithm confusion.md",
     "Red Team/CTFs/portswigger/Insecure Deserialiation - Arbitrary object injection PHP.md",
     "Red Team/CTFs/portswigger/Insecure Deserialization - Modifying data types.md",
-    "Red Team/Recon/Scan Automatizado.md",
-    "Red Team/Recon/Subdomain Takeover.md",
-    "Red Team/Recon/Wayback.md",
-    "Red Team/Técnicas/Técnicas de evasão.md",
-    "Red Team/Web/Host header injection.md",
-    "Red Team/Web/CORS.md",
     "Sem título",
     "fuoriluogo",
     "Anexos/nmap_response.png",
