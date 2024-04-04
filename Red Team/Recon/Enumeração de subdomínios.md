@@ -9,6 +9,13 @@ Sem contato direto com alvo.
 $ sublist3r -d hackerone.com -o passive_subd.txt
 ```
 
+Utilizando crt.sh
+
+```
+curl -s [http://crt.sh](https://t.co/3SNVM49m71)\?q\=\[http://facebook.com](https://t.co/zPr7Thk72Q)\&output\=json | jq -r '.[].name_value' | grep -Po '(\w+\.\w+\.\w+)$' | anew subdomains-faceboo.txt cat subdomains-faceboo.txt | wc -l
+```
+
+```
 ## Ativo
 
 Possui contato direto com alvo.
