@@ -1,4 +1,4 @@
-#soc #windows
+#soc #windows #endopoint_sec
 
 O **Sysmon** reúne logs detalhados e de alta qualidade, bem como rastreamento de eventos que ajudam a identificar anomalias em seu ambiente. O Sysmon é mais comumente usado em conjunto com sistemas de gerenciamento de informações e eventos de segurança (SIEM), em um cenário ideal, os eventos seriam encaminhados para um SIEM para análise adicional.
 

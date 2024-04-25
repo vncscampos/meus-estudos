@@ -1,4 +1,4 @@
-#windows
+#windows #fundamentals 
 ## Arquitetura e operações do Windows
 
 - API do Windows (Win32, COM, WinRT) traduz comandos do aplicativo (modo usuário) para o kernel

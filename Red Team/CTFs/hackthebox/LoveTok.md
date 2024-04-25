@@ -4,7 +4,7 @@ https://app.hackthebox.com/challenges/lovetok
 
 A página é bem simples e possui um parâmetro de formatação (no caso r) para a data que é imprimida.
 
-O ctf contém arquivos para baixar e nele é possível ver qual a lógica da página. Ela usa a função `addslashes()` para previnir ataque RCE.
+O ctf contém arquivos para baixar e nele é possível ver qual a lógica da página. Ela usa a função `addslashes()` para previnir ataque [[Command Injection|RCE]].
 
 ```php
 <?php  

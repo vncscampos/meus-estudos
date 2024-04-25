@@ -1,4 +1,4 @@
-#soc #windows
+#soc #windows #endopoint_sec
 
 O **Sysinternals** é uma coleção de utilitários de sistema para diagnosticar e solucionar problemas no Windows.
 

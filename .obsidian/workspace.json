@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bd3c290e66c9d9b1",
+        "id": "e638753c465fe674",
         "type": "tabs",
         "children": [
           {
-            "id": "f50f030eb81485e6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Red Team/Web/Teste em aplicações Web.canvas",
-                "viewState": {
-                  "x": 585.8459770612892,
-                  "y": 472.02798075760575,
-                  "zoom": -0.19999999999999984
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "afdd7d968f9c884a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Red Team/Recon/Recon.canvas",
-                "viewState": {
-                  "x": 294.7482060705084,
-                  "y": 620.8530660977057,
-                  "zoom": -0.283327630564133
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8563f08fe575eee9",
+            "id": "0813b3824679e65b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo-list.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ctf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +98,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo-list.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -159,12 +119,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "todo-list.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,54 +140,55 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8563f08fe575eee9",
+  "active": "0813b3824679e65b",
   "lastOpenFiles": [
-    "README.md",
-    "Red Team/Recon/Recon.canvas",
-    "Red Team/Recon/Scan Automatizado.md",
-    "Red Team/Técnicas/Privesc/Windows/Privilege Escalation.md",
+    "Red Team/Técnicas/Privesc/Windows/Windows Privilege Escalation.md",
+    "Red Team/Técnicas/API/Fuzzing.md",
+    "Blue Team/SOC/Endpoint Security/Osquery.md",
+    "Red Team/CTFs/tryhackme/all_in_one.md",
+    "Red Team/CTFs/hackthebox/ProxyAsAService.md",
+    "Red Team/CTFs/hackthebox/Neonify.md",
+    "Red Team/CTFs/hackthebox/LoveTok.md",
+    "Red Team/Vuln Web/Command Injection.md",
+    "Red Team/CTFs/hackthebox/HTBank.md",
+    "Http Parameter Polluition.md",
+    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
+    "Red Team/Vuln Web/Open Redirect.md",
+    "Red Team/Vuln Web/IDOR.md",
+    "Red Team/Vuln Web/XSS.md",
+    "Fundamentos/SOP.md",
+    "Fundamentos/Core Windows Process.md",
+    "Fundamentos/CORS.md",
+    "Fundamentos/Windows.md",
     "todo-list.md",
-    "Anexos/Pasted image 20240424114726.png",
-    "Red Team/Web/Teste em aplicações Web.canvas",
-    "Blue Team/SOC/Endpoint Security/Windows/Core Windows Process.md",
-    "Blue Team/SOC/Endpoint Security/Windows/Sysinternals.md",
-    "Blue Team/SOC/Endpoint Security/Windows/Windows.md",
-    "Blue Team/SOC/Endpoint Security/Windows/Windows Event Logs.md",
+    "README.md",
     "Red Team/Técnicas/Privesc/Linux/Enumeração.md",
     "Red Team/Técnicas/Privesc/Windows/Enumeração.md",
+    "Red Team/Vuln Web/CSRF.md",
+    "Red Team/Vuln Web/Clickjacking.md",
+    "Red Team/Vuln Web/JWT.md",
+    "Blue Team/SOC/Network Security/Básico de análise de tráfego.md",
+    "Fundamentos",
+    "Red Team/Recon/Recon.canvas",
+    "Red Team/Vuln Web/Teste em aplicações Web.canvas",
+    "Blue Team/SOC/Endpoint Security/Sem título",
+    "Blue Team/SOC/Network Security",
+    "Blue Team/SOC/CTI",
+    "Anexos/Pasted image 20240424114726.png",
     "Red Team/Técnicas/Privesc/Linux",
-    "Blue Team/SOC/Endpoint Security/Windows/Sysmon.md",
-    "Red Team/Recon/Content Discovery.md",
     "Red Team/Técnicas/Privesc/Windows",
-    "Red Team/Técnicas/API/Técnicas de evasão.md",
     "Red Team/Técnicas/API",
-    "Red Team/Técnicas/API/Fuzzing.md",
-    "Red Team/Técnicas/API/Engenharia reversa de API.md",
     "Red Team/Técnicas/Privesc",
-    "Blue Team/SOC/Básico de análise de tráfego.md",
     "Anexos/Pasted image 20240418202210.png",
     "Anexos/Pasted image 20240418141614.png",
     "Anexos/Pasted image 20240417105509.png",
     "Anexos/Pasted image 20240415221833.png",
-    "Ultralearning.md",
     "Blue Team/SOC/Endpoint Security/Windows",
     "Blue Team/SOC/Endpoint Security",
-    "Sistema de arquivos.md",
-    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
-    "Blue Team/DevSecOps/CICD and build security.md",
-    "Cronograma.md",
-    "Blue Team/SOC/MITRE.md",
-    "Blue Team/SOC/Threat Intelligence Tools.md",
-    "Blue Team/SOC/Yara.md",
-    "Blue Team/DevSecOps/SAST.md",
-    "Blue Team/SOC",
     "Anexos/Pasted image 20240307114037.png",
     "Anexos/Pasted image 20240306113844.png",
     "Anexos/Pasted image 20240229100554.png",
     "Anexos/Pasted image 20240227171242.png",
-    "Anexos/Pasted image 20240227171108.png",
-    "Blue Team/DevSecOps",
-    "Sem título",
-    "fuoriluogo"
+    "Anexos/Pasted image 20240227171108.png"
   ]
 }

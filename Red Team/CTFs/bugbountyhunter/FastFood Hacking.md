@@ -194,12 +194,12 @@ Essa página aparece depois de uma ordem em `/book.php`. Existe um parâmetro em
 - /go
 ## Vulnerabilidades encontradas (são 15)
 
-- Open Redirect
+- [[Open Redirect]]
 	- `https://www.bugbountytraining.com/fastfoodhackings/index.php?from=https://google.com&type=1#redir=https://google.com`
-- XSS
+- [[XSS]]
 	- `https://www.bugbountytraining.com/fastfoodhackings/index.php?from=javascript:alert(1)`
 * Data exposure
 	* `/fastfoodhackings/api/loader.php?f=/generate-credentials`
 	* `custom-script.js` -> admin token = `c0f22cf8-96ea-4fbb-8805-ee4246095031`
-- IDOR
+- [[IDOR]]
 	- `/fastfoodhackings/confirmed.php?order_id=NDIwNjg=`

@@ -49,7 +49,7 @@ def withdraw(decoded_token):
 		return response('Only accept number!'), 500
 ```
 
-Porém, no backend o amount deve ser igual a 1337 para pegarmos a flag. A solução então é usar da vulnerabilidade chamada **http parameter polluition**, enviando dois `amount` um com valor 0 e outro com valor 1337.
+Porém, no backend o amount deve ser igual a 1337 para pegarmos a flag. A solução então é usar da vulnerabilidade chamada [[Http Parameter Polluition]], enviando dois `amount` um com valor 0 e outro com valor 1337.
 
 ```
 -----------------------------131246009024406851302182491943

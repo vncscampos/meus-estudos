@@ -38,7 +38,7 @@ def proxy():
 	return Response(response.content, response.status_code, headers.items())
 ```
 
-É possível burlar essa concatenação e fazer o app acessar o nosso site manipulando a url com `@`, assim a requisição vai para o que veio depois do sinal: ``
+É possível burlar essa concatenação e fazer o app acessar o nosso site manipulando a url com `@`, assim a requisição vai para o que veio depois do sinal ([[SSRF]]): 
 
 ```
 http://reddit.com@127.0.0.1:1337/debug/environment

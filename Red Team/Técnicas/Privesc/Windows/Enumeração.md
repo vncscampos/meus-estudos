@@ -121,7 +121,7 @@ Ou ver as regras
 > Get-NetFirewallRule | select DisplayName, Enabled, Description
 ```
 
-### Sysmon
+### [[Sysmon]]
 
 Detectar se o Sysmon está instalado e rodando
 

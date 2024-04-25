@@ -1,4 +1,4 @@
-#soc #windows
+#soc #windows #endopoint_sec
 
 Os arquivos de logs geralmente estão em `C:\Windows\System32\winevt\Logs` no formato binário .evt ou .evtx
 ## Event Viewer
