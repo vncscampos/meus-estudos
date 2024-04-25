@@ -42,33 +42,19 @@
             }
           },
           {
-            "id": "7d93d0c5d53175c9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "86450ca8f6493db4",
+            "id": "8563f08fe575eee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Team/SOC/Threat Intelligence Tools.md",
+                "file": "todo-list.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 232.5
   },
   "right": {
     "id": "cfdaa5c43f57fa08",
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blue Team/SOC/Threat Intelligence Tools.md",
+                "file": "todo-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blue Team/SOC/Threat Intelligence Tools.md",
+                "file": "todo-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blue Team/SOC/Threat Intelligence Tools.md"
+                "file": "todo-list.md"
               }
             }
           }
@@ -195,55 +181,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "86450ca8f6493db4",
+  "active": "8563f08fe575eee9",
   "lastOpenFiles": [
-    "Red Team/Recon/Informação do alvo.md",
-    "Blue Team/SOC/Threat Intelligence Tools.md",
+    "README.md",
+    "Red Team/Recon/Recon.canvas",
+    "Red Team/Recon/Scan Automatizado.md",
+    "Red Team/Técnicas/Privesc/Windows/Privilege Escalation.md",
+    "todo-list.md",
+    "Anexos/Pasted image 20240424114726.png",
+    "Red Team/Web/Teste em aplicações Web.canvas",
+    "Blue Team/SOC/Endpoint Security/Windows/Core Windows Process.md",
+    "Blue Team/SOC/Endpoint Security/Windows/Sysinternals.md",
+    "Blue Team/SOC/Endpoint Security/Windows/Windows.md",
+    "Blue Team/SOC/Endpoint Security/Windows/Windows Event Logs.md",
+    "Red Team/Técnicas/Privesc/Linux/Enumeração.md",
+    "Red Team/Técnicas/Privesc/Windows/Enumeração.md",
+    "Red Team/Técnicas/Privesc/Linux",
+    "Blue Team/SOC/Endpoint Security/Windows/Sysmon.md",
+    "Red Team/Recon/Content Discovery.md",
+    "Red Team/Técnicas/Privesc/Windows",
+    "Red Team/Técnicas/API/Técnicas de evasão.md",
+    "Red Team/Técnicas/API",
+    "Red Team/Técnicas/API/Fuzzing.md",
+    "Red Team/Técnicas/API/Engenharia reversa de API.md",
+    "Red Team/Técnicas/Privesc",
+    "Blue Team/SOC/Básico de análise de tráfego.md",
+    "Anexos/Pasted image 20240418202210.png",
+    "Anexos/Pasted image 20240418141614.png",
+    "Anexos/Pasted image 20240417105509.png",
+    "Anexos/Pasted image 20240415221833.png",
+    "Ultralearning.md",
+    "Blue Team/SOC/Endpoint Security/Windows",
+    "Blue Team/SOC/Endpoint Security",
+    "Sistema de arquivos.md",
     "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
+    "Blue Team/DevSecOps/CICD and build security.md",
+    "Cronograma.md",
     "Blue Team/SOC/MITRE.md",
-    "Red Team/Técnicas/Fuzzing.md",
-    "Red Team/API Penetration Testing/Injection.md",
-    "Red Team/API Penetration Testing/Gestão imprópria de ativos.md",
-    "Red Team/API Penetration Testing/Atribuição em massa.md",
-    "Red Team/API Penetration Testing/Ataque de autenticação.md",
-    "Red Team/API Penetration Testing/API Authorization.md",
-    "Red Team/CTFs/tryhackme/Surfer.md",
-    "Red Team/Recon/Enumeração de subdomínios.md",
-    "Red Team/Web/SSRF.md",
-    "Red Team/CTFs/portswigger/SSRF - whitelist-based input filter.md",
-    "Red Team/CTFs/portswigger/Web cache poisoning - with an unkeyed header.md",
-    "Red Team/CTFs/portswigger/Web cache poisoning - unkeyed cookie.md",
-    "Red Team/CTFs/portswigger/Web cache poisoning - DOM-based.md",
-    "Red Team/CTFs/portswigger/Web cache poisoning - Combining vulnerabilities.md",
-    "Red Team/CTFs/portswigger/JWT - algorithm confusion.md",
-    "Red Team/CTFs/portswigger/Clickjacking - basic clickjacking with CSRF token.md",
-    "Red Team/CTFs/portswigger/CSRF - bypass SameSite Lax.md",
-    "Red Team/CTFs/portswigger/Host header injection - password reset via dangling markup.md",
-    "Red Team/CTFs/portswigger/Insecure Deserialiation - Arbitrary object injection PHP.md",
-    "Red Team/CTFs/portswigger/Insecure Deserialization - Modifying data types.md",
-    "Red Team/CTFs/portswigger/Insecure Deserialization - PHAR.md",
-    "Red Team/CTFs/portswigger/Insecure Deserialization - Using application functionality.md",
+    "Blue Team/SOC/Threat Intelligence Tools.md",
+    "Blue Team/SOC/Yara.md",
+    "Blue Team/DevSecOps/SAST.md",
     "Blue Team/SOC",
     "Anexos/Pasted image 20240307114037.png",
     "Anexos/Pasted image 20240306113844.png",
-    "Red Team/Recon/Recon.canvas",
-    "Red Team/Web/Teste em aplicações Web.canvas",
     "Anexos/Pasted image 20240229100554.png",
     "Anexos/Pasted image 20240227171242.png",
     "Anexos/Pasted image 20240227171108.png",
     "Blue Team/DevSecOps",
     "Sem título",
-    "fuoriluogo",
-    "Anexos/nmap_response.png",
-    "Red Team/Recon",
-    "skinport",
-    "Blue Team/Endpoint Security (Cisco)",
-    "Red Team/CTFs/hackthebox",
-    "Anexos/Pasted image 20240122170127.png",
-    "Pasted image 20240122170035.png",
-    "Anexos/Pasted image 20240118111517.png",
-    "Anexos/Pasted image 20240118111947.png",
-    "Blue Team/Cyber Threat Management (Cisco)",
-    "Blue Team"
+    "fuoriluogo"
   ]
 }

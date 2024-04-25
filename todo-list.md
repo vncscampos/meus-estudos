@@ -1,31 +1,5 @@
 ## TryHackMe Labs:
 
-### Web
-
-- [x]  OWASP Top 10 Room: [Link](https://tryhackme.com/room/owasptop10)
-- [ ]  SQL Injection Lab: [Link](https://tryhackme.com/room/sqlilab)
-- [x]  VulnNet: [Link](https://tryhackme.com/room/vulnnet1)
-- [x]  VulnNet Internal: [Link](https://tryhackme.com/room/vulnnetinternal)
-- [ ]  VulnNet dotjar: [Link](https://tryhackme.com/room/vulnnetdotjar)
-- [ ]  VulnNet dotpy: [](https://tryhackme.com/room/vulnnetdotjar)[Link](https://tryhackme.com/room/vulnnetdotpy)
-- [ ]  VulnNet endgame: [](https://tryhackme.com/room/vulnnetdotjar)[Link](https://tryhackme.com/room/vulnnetendgame)
-- [x]  Bookstore: [Link](https://tryhackme.com/room/bookstoreoc)
-- [x]  Thats the tickets: [Link](https://tryhackme.com/room/thatstheticket)
-- [ ]  NoSQL injection basics: [Link](https://tryhackme.com/room/nosqlinjectiontutorial)
-
-### Windows / AD
-
-- [ ]  Windows Fundamentals Room 1: [Link](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [ ]  Windows Fundamentals Room 2: [Link](https://tryhackme.com/room/winadbasics)
-- [ ]  Active Directory Basics: [Link](https://tryhackme.com/room/winadbasics)
-- [ ]  Windows PrivEsc: [Link](https://tryhackme.com/room/windows10privesc)
-- [ ]  AD Certificates: [Link](https://tryhackme.com/room/adcertificatetemplates)
-- [ ]  Enumerating Active Directory: [Link](https://tryhackme.com/room/adenumeration)
-- [ ]  Active Directory Attack Room: [Link](https://tryhackme.com/room/breachingad)
-- [ ]  Attacktive Directory: [Link](https://tryhackme.com/room/attacktivedirectory)
-- [ ]  VulnNet Active: [Link](https://tryhackme.com/room/vulnnetactive)
-- [ ]  Razor black: [Link](https://tryhackme.com/room/raz0rblack)
-
 ### Linux
 
 - [ ]  Linux PrivEsc: [Link](https://tryhackme.com/room/linuxprivesc)
@@ -33,14 +7,10 @@
 
 ### Pentest
 
-- [ ]  UltraTech: [Link](https://tryhackme.com/room/ultratech1)
+- [x]  UltraTech: [Link](https://tryhackme.com/room/ultratech1)
 - [ ]  Road: [Link](https://tryhackme.com/room/road)
 - [ ]  Relevant: [Link](https://tryhackme.com/room/relevant)
 - [ ]  Internal: [Link](https://tryhackme.com/room/internal)
-
-### Buffer overflow
-
-- [ ]  Buffer Overflow Prep Room: [Link](https://tryhackme.com/room/bufferoverflowprep)
 
 ## Portswigger Academy - Web Security:
 

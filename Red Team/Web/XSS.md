@@ -24,7 +24,7 @@ O XSS persistente é quando o script é armazenado no banco, por exemplo, os com
 
 Os testes são os mesmo que o refletido, porém é importante saber onde vai o input inserido, as vezes ele não é inserido na mesma página que você preencheu a entrada. Por exemplo, em um ctf tinha um pedido de suporte que possuia um input de mensagem inseguro e que é mandado para o painel do admin (que eu não tenho acesso) mas descobri de alguma forma que mandavam para lá.
 
-## DOM-based
+## [[DOM-Based]]
 
 Neste ataque a string maliciosa não é analisado pelo navegador até que o JS do site seja executado. Nas variações anteriores, o script malicioso é inserido na página que ao ser carregada, automaticamente o script será executado. Porém no XSS baseado em DOM, não há script malicioso inserido como parte da página, só o script legítimo da página.
 
