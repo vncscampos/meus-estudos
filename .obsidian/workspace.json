@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e638753c465fe674",
+        "id": "f338fa35c256850f",
         "type": "tabs",
         "children": [
           {
-            "id": "0813b3824679e65b",
+            "id": "bc80160934b67f80",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ctf",
+                "query": "tag:#attack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Team/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Red Team/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,11 +120,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Team/XSS.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,37 +143,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0813b3824679e65b",
+  "active": "d4be5a85c97cf5b5",
   "lastOpenFiles": [
-    "Red Team/Técnicas/Privesc/Windows/Windows Privilege Escalation.md",
-    "Red Team/Técnicas/API/Fuzzing.md",
-    "Blue Team/SOC/Endpoint Security/Osquery.md",
-    "Red Team/CTFs/tryhackme/all_in_one.md",
-    "Red Team/CTFs/hackthebox/ProxyAsAService.md",
-    "Red Team/CTFs/hackthebox/Neonify.md",
-    "Red Team/CTFs/hackthebox/LoveTok.md",
-    "Red Team/Vuln Web/Command Injection.md",
-    "Red Team/CTFs/hackthebox/HTBank.md",
-    "Http Parameter Polluition.md",
-    "Red Team/CTFs/bugbountyhunter/FastFood Hacking.md",
-    "Red Team/Vuln Web/Open Redirect.md",
-    "Red Team/Vuln Web/IDOR.md",
-    "Red Team/Vuln Web/XSS.md",
-    "Fundamentos/SOP.md",
-    "Fundamentos/Core Windows Process.md",
-    "Fundamentos/CORS.md",
+    "Blue Team/Métricas.md",
+    "Blue Team/Introdução a DevSecOps.md",
+    "Blue Team/CICD and build security.md",
+    "Blue Team/CALMS.md",
+    "Blue Team/Básico de análise de tráfego.md",
+    "Blue Team/SDLC.md",
+    "Blue Team/SAST.md",
+    "Blue Team/SSDLC.md",
+    "Blue Team/Sysinternals.md",
+    "Blue Team/Osquery.md",
+    "Blue Team/MITRE.md",
+    "Blue Team/Windows Event Logs.md",
+    "Blue Team/Yara.md",
+    "Blue Team/Sysmon.md",
+    "Blue Team/Threat Intelligence Tools.md",
+    "Blue Team/Wazuh.md",
+    "Red Team/API Authorization.md",
     "Fundamentos/Windows.md",
-    "todo-list.md",
-    "README.md",
-    "Red Team/Técnicas/Privesc/Linux/Enumeração.md",
-    "Red Team/Técnicas/Privesc/Windows/Enumeração.md",
-    "Red Team/Vuln Web/CSRF.md",
-    "Red Team/Vuln Web/Clickjacking.md",
-    "Red Team/Vuln Web/JWT.md",
-    "Blue Team/SOC/Network Security/Básico de análise de tráfego.md",
+    "Fundamentos/SOP.md",
+    "Fundamentos/CORS.md",
+    "Fundamentos/Core Windows Process.md",
+    "Red Team/SSRF.md",
+    "Red Team/Subdomain Takeover.md",
+    "Red Team/Wayback.md",
+    "Red Team/Web cache poisoning.md",
+    "Red Team/Windows Local Persistence.md",
+    "Red Team/graph",
+    "Red Team/graph/Teste em aplicações Web.canvas",
+    "Anexos/Pasted image 20240429111529.png",
+    "Anexos/Pasted image 20240429151100.png",
+    "Anexos/Pasted image 20240429145139.png",
+    "Anexos/Pasted image 20240429115834.png",
+    "Anexos/Pasted image 20240429115753.png",
+    "Anexos/Pasted image 20240429113650.png",
+    "Anexos/Pasted image 20240429103022.png",
     "Fundamentos",
-    "Red Team/Recon/Recon.canvas",
-    "Red Team/Vuln Web/Teste em aplicações Web.canvas",
+    "Red Team/graph/Recon.canvas",
     "Blue Team/SOC/Endpoint Security/Sem título",
     "Blue Team/SOC/Network Security",
     "Blue Team/SOC/CTI",
@@ -181,14 +192,6 @@
     "Red Team/Técnicas/Privesc",
     "Anexos/Pasted image 20240418202210.png",
     "Anexos/Pasted image 20240418141614.png",
-    "Anexos/Pasted image 20240417105509.png",
-    "Anexos/Pasted image 20240415221833.png",
-    "Blue Team/SOC/Endpoint Security/Windows",
-    "Blue Team/SOC/Endpoint Security",
-    "Anexos/Pasted image 20240307114037.png",
-    "Anexos/Pasted image 20240306113844.png",
-    "Anexos/Pasted image 20240229100554.png",
-    "Anexos/Pasted image 20240227171242.png",
-    "Anexos/Pasted image 20240227171108.png"
+    "Blue Team/SOC/Endpoint Security/Windows"
   ]
 }
