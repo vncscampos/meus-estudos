@@ -4,19 +4,24 @@
 
 ## Coletando todas as urls
 
-Waybackurls:
+### Waybackurls: 
 
 ```sh
 $ cat hosts.txt | waybackurls | hakcheckurl | egrep -v '404' | awk '{print $2}' > urls.txt 
 ```
 
-GetAllUrls:
+### GetAllUrls:
 
 ```sh
 $ echo "dominio.com" | gau
 ```
 
+### GoLinkFinder
 
+
+```bash
+GoLinkFinder -d https://github.com | grep api
+```
 ## Grep
 
 O próximo passo após achar as urls é buscar por informações interessante como usuários, senhas, api, endpoints, queries etc.

@@ -6,6 +6,7 @@
 
 ```sh
 $ waybackurls hosts.txt | grep "\\.js" | xargs -n1 -I@ curl -k @ | tee -a files.txt
+$ cat domains.txt | getJS
 ```
 
 ### Passo 2 - jsbeautifier

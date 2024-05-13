@@ -1,4 +1,4 @@
-#web #fundamentals 
+#web #fundamentals #fundamentals/web 
 
 O SOP é um mecanismo de segurança do navegador que previne que sites atacam outros sites. Ele restringe que scripts de uma origem (*origin*) acessem dados de outra origem, ou seja, apenas as mesmas origens (*same-origin*) podem se comunicar.
 

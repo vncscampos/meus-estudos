@@ -1,4 +1,4 @@
-#recon 
+ #recon 
 
 **Objetivo:** encontrar diretórios escondidos, arquivos, queries etc
 
@@ -14,7 +14,7 @@ $ gobuster dir -u https://site.com -w /usr/share/wordlists/dirb/common.txt
 
 Arjun:
 ```sh
-	$ arjun -u https://site.com
+$ arjun -u https://site.com
 ```
 
 ## Fuzz

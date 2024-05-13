@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f338fa35c256850f",
+        "id": "a3510ac01654db05",
         "type": "tabs",
         "children": [
           {
-            "id": "bc80160934b67f80",
+            "id": "7edb9f143b58dd3f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#attack",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Team/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Team/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Team/XSS.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -130,49 +126,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d4be5a85c97cf5b5",
+  "active": "7edb9f143b58dd3f",
   "lastOpenFiles": [
-    "Blue Team/Métricas.md",
-    "Blue Team/Introdução a DevSecOps.md",
-    "Blue Team/CICD and build security.md",
-    "Blue Team/CALMS.md",
-    "Blue Team/Básico de análise de tráfego.md",
-    "Blue Team/SDLC.md",
-    "Blue Team/SAST.md",
-    "Blue Team/SSDLC.md",
-    "Blue Team/Sysinternals.md",
-    "Blue Team/Osquery.md",
-    "Blue Team/MITRE.md",
-    "Blue Team/Windows Event Logs.md",
-    "Blue Team/Yara.md",
-    "Blue Team/Sysmon.md",
-    "Blue Team/Threat Intelligence Tools.md",
-    "Blue Team/Wazuh.md",
-    "Red Team/API Authorization.md",
-    "Fundamentos/Windows.md",
-    "Fundamentos/SOP.md",
-    "Fundamentos/CORS.md",
-    "Fundamentos/Core Windows Process.md",
-    "Red Team/SSRF.md",
-    "Red Team/Subdomain Takeover.md",
+    "README.md",
+    "Inglês/Simples Past VS Past Continous.md",
+    "Inglês/For.md",
+    "Inglês/Simple Past.md",
+    "Inglês/Past Continous.md",
+    "Inglês/To.md",
+    "Inglês/Time Expressions.md",
+    "Red Team/graph/Recon.canvas",
+    "Inglês",
+    "Dev",
+    "Sem título.md",
     "Red Team/Wayback.md",
-    "Red Team/Web cache poisoning.md",
-    "Red Team/Windows Local Persistence.md",
-    "Red Team/graph",
+    "Red Team/Subdomain Takeover.md",
+    "Red Team/Enumeração de subdomínios.md",
+    "Red Team/Enumerar JS.md",
+    "Red Team/Scan Automatizado.md",
+    "Red Team/Content Discovery.md",
+    "Red Team/Github.md",
+    "Red Team/Engenharia reversa de API.md",
+    "Red Team/Fuzzing.md",
+    "Red Team/Informação do alvo.md",
+    "Red Team/NMAP.md",
+    "sheer.md",
+    "CTFs/tryhackme/basic_pentesting.md",
+    "CTFs/tryhackme/ItsyBitsy.md",
+    "Blue Team/Investigating with ELK 101.md",
+    "Blue Team/Osquery.md",
+    "Blue Team/Windows Event Logs.md",
+    "Red Team/API Authorization.md",
+    "Anexos/Pasted image 20240430144508.png",
     "Red Team/graph/Teste em aplicações Web.canvas",
+    "Red Team/graph",
     "Anexos/Pasted image 20240429111529.png",
     "Anexos/Pasted image 20240429151100.png",
     "Anexos/Pasted image 20240429145139.png",
@@ -181,7 +180,6 @@
     "Anexos/Pasted image 20240429113650.png",
     "Anexos/Pasted image 20240429103022.png",
     "Fundamentos",
-    "Red Team/graph/Recon.canvas",
     "Blue Team/SOC/Endpoint Security/Sem título",
     "Blue Team/SOC/Network Security",
     "Blue Team/SOC/CTI",
@@ -189,9 +187,6 @@
     "Red Team/Técnicas/Privesc/Linux",
     "Red Team/Técnicas/Privesc/Windows",
     "Red Team/Técnicas/API",
-    "Red Team/Técnicas/Privesc",
-    "Anexos/Pasted image 20240418202210.png",
-    "Anexos/Pasted image 20240418141614.png",
-    "Blue Team/SOC/Endpoint Security/Windows"
+    "Anexos/Pasted image 20240418202210.png"
   ]
 }
