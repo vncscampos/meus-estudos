@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3510ac01654db05",
+        "id": "521b61ad736bd4f0",
         "type": "tabs",
         "children": [
           {
-            "id": "7edb9f143b58dd3f",
+            "id": "3d7e047c5f4a974d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Hydration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/Hydration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/Hydration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/Hydration.md"
+              }
             }
           }
         ],
@@ -126,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,37 +146,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7edb9f143b58dd3f",
+  "active": "3d7e047c5f4a974d",
   "lastOpenFiles": [
-    "README.md",
-    "Inglês/Simples Past VS Past Continous.md",
-    "Inglês/For.md",
+    "Inglês/Simple future.md",
+    "Dev/Hydration.md",
+    "Inglês/Present continous.md",
     "Inglês/Simple Past.md",
-    "Inglês/Past Continous.md",
-    "Inglês/To.md",
+    "Inglês/Simples Past VS Past Continous.md",
     "Inglês/Time Expressions.md",
+    "Inglês/Superlative.md",
+    "Inglês/Thing VS Stuff.md",
+    "Inglês/Comparative.md",
+    "Inglês/For.md",
+    "Inglês/Glottal Stop.md",
+    "Inglês/Had better.md",
+    "Inglês/I prefer.md",
+    "Inglês/Past Continous.md",
+    "Inglês/Possessive pronouns.md",
+    "Inglês/Would rather.md",
+    "Inglês/To.md",
     "Red Team/graph/Recon.canvas",
+    "CTFs/portswigger/Host header injection - password reset via dangling markup.md",
+    "CTFs/portswigger/Insecure Deserialiation - Arbitrary object injection PHP.md",
+    "CTFs/portswigger/Insecure Deserialization - Modifying data types.md",
+    "CTFs/portswigger/Insecure Deserialization - PHAR.md",
+    "CTFs/portswigger/Insecure Deserialization - Using application functionality.md",
+    "CTFs/portswigger/JWT - algorithm confusion.md",
+    "CTFs/portswigger/JWT - bypass jku header.md",
+    "CTFs/portswigger/JWT - bypass kid.md",
+    "CTFs/portswigger/SSRF - whitelist-based input filter.md",
     "Inglês",
     "Dev",
-    "Sem título.md",
-    "Red Team/Wayback.md",
-    "Red Team/Subdomain Takeover.md",
-    "Red Team/Enumeração de subdomínios.md",
-    "Red Team/Enumerar JS.md",
-    "Red Team/Scan Automatizado.md",
-    "Red Team/Content Discovery.md",
-    "Red Team/Github.md",
-    "Red Team/Engenharia reversa de API.md",
-    "Red Team/Fuzzing.md",
-    "Red Team/Informação do alvo.md",
-    "Red Team/NMAP.md",
-    "sheer.md",
-    "CTFs/tryhackme/basic_pentesting.md",
-    "CTFs/tryhackme/ItsyBitsy.md",
-    "Blue Team/Investigating with ELK 101.md",
-    "Blue Team/Osquery.md",
-    "Blue Team/Windows Event Logs.md",
-    "Red Team/API Authorization.md",
     "Anexos/Pasted image 20240430144508.png",
     "Red Team/graph/Teste em aplicações Web.canvas",
     "Red Team/graph",

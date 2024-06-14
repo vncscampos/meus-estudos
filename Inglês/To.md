@@ -1,18 +1,18 @@
 #english 
 
 ```bash
-to + verbo no infinitivo
+to + verbo
 ```
 
 **Usado para:
 
-- expressar um objetivo (antes do verbo no infinitivo)
+- expressar uma finalidade ou propósito de uma ação (antes do verbo no infinitivo)
 - indicar direção
 - desejar algo a alguém
 - entregar algo a alguém
 - comparar algo
 
-Can we go there _to_ eat
+Can we go there _to_ eat?
 He went _to_ help his son with this homework
 
 Há exceções e esse verbo é conjugado (to + verbo + ing) por exemplo:
