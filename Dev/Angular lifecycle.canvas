@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"6679a5de07726b7e","type":"file","file":"Dev/Angular lifecycle.md","x":80,"y":-140,"width":400,"height":690},
+		{"id":"186e9072d4800d75","type":"text","text":"Constructor\n","x":-180,"y":-140,"width":244,"height":50},
+		{"id":"5f164df01bd63250","type":"text","text":"ngOnChanges","x":-180,"y":-60,"width":244,"height":50},
+		{"id":"e836d09871c251c3","type":"text","text":"ngOnInit","x":-180,"y":20,"width":244,"height":50},
+		{"id":"1acc9ebdb17659d8","type":"text","text":"ngAfterContentInit","x":-180,"y":175,"width":244,"height":50},
+		{"id":"1868aa6dbddbe83a","type":"text","text":"ngDoCheck","x":-180,"y":100,"width":244,"height":50},
+		{"id":"90e675f54d48de69","type":"text","text":"ngAfterContentChecked","x":-180,"y":260,"width":244,"height":50},
+		{"id":"ea6b283b517d9606","type":"text","text":"ngAfterViewInit","x":-180,"y":340,"width":244,"height":50},
+		{"id":"5b97ccb4ecf6501a","type":"text","text":"ngAfterViewChecked","x":-180,"y":420,"width":244,"height":50},
+		{"id":"bec077d3c4396c17","type":"text","text":"ngOnDestroy","x":-180,"y":500,"width":244,"height":50}
+	],
+	"edges":[
+		{"id":"e741d11adc32bfc8","fromNode":"186e9072d4800d75","fromSide":"bottom","toNode":"5f164df01bd63250","toSide":"top"},
+		{"id":"39bd2dcd1e658ced","fromNode":"5f164df01bd63250","fromSide":"bottom","toNode":"e836d09871c251c3","toSide":"top"},
+		{"id":"58919fc471a61474","fromNode":"e836d09871c251c3","fromSide":"bottom","toNode":"1868aa6dbddbe83a","toSide":"top"},
+		{"id":"9f6a09ae367387ee","fromNode":"1868aa6dbddbe83a","fromSide":"bottom","toNode":"1acc9ebdb17659d8","toSide":"top"},
+		{"id":"19fb2bea55fa728b","fromNode":"1acc9ebdb17659d8","fromSide":"bottom","toNode":"90e675f54d48de69","toSide":"top"},
+		{"id":"c699cb2fe6ade240","fromNode":"90e675f54d48de69","fromSide":"bottom","toNode":"ea6b283b517d9606","toSide":"top"},
+		{"id":"cff198cd7b076959","fromNode":"ea6b283b517d9606","fromSide":"bottom","toNode":"5b97ccb4ecf6501a","toSide":"top"},
+		{"id":"19cdeb884b4ee822","fromNode":"5b97ccb4ecf6501a","fromSide":"bottom","toNode":"bec077d3c4396c17","toSide":"top"}
+	]
+}

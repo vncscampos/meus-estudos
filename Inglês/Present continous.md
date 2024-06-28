@@ -1,4 +1,4 @@
-#english #present
+#english #english/verb_tenses #english/verb_tenses/present
 
 ```shell
 sujeito + verbo auxiliar + verbo -ing #afirmativa

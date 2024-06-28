@@ -1,4 +1,4 @@
-#english 
+#english #english/comparitive 
 
 ```shell
 the + adjetivo + -est

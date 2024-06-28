@@ -1,4 +1,4 @@
-#english #past
+#english #english/verb_tenses #english/verb_tenses/past
 
 - Ambos descrevem situações concretas no passado
 - Auxiliar do [[Simple Past]] -> Did

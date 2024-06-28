@@ -1,4 +1,4 @@
-#english #pronouns
+#english #english/pronouns
 
 - Não são conjugados como no português (singular e plural)
 - São classificados de duas maneiras:

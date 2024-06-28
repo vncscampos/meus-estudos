@@ -1,4 +1,4 @@
-#english
+#english #english/comparitive 
 
 ```shell
 sujeito + verbo + adjetivo comparativo + than + objeto

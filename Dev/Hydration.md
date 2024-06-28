@@ -1,4 +1,4 @@
-#dev #rect
+#dev #dev/front #react #nextjs
 
 É o processo de comparação entre o HTML estático gerado no servidor e o HTML gerado pelo React no cliente em aplicações SSR. Se os dois HTMLs forem correspondente beleza, mas se não, pode dar **hydration error** em dev e até bugs em prod, pois o React vai fazer mínimas alterações para sincronizar os dois documentos e que pode dar um BO danado.
 

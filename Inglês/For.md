@@ -1,4 +1,4 @@
-#english 
+#english #english/verbs
 
 ```bash
 for + verbo -ing / algo

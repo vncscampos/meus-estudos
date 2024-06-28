@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "521b61ad736bd4f0",
+        "id": "aac42e52ba8f6f10",
         "type": "tabs",
         "children": [
           {
-            "id": "3d7e047c5f4a974d",
+            "id": "08a55beadee89d82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Hydration.md",
+                "file": "Dev/Action.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 230.5
   },
   "right": {
     "id": "cfdaa5c43f57fa08",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Hydration.md",
+                "file": "Dev/Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Hydration.md",
+                "file": "Dev/Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Hydration.md"
+                "file": "Dev/Action.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,39 +147,41 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3d7e047c5f4a974d",
+  "active": "d4be5a85c97cf5b5",
   "lastOpenFiles": [
-    "Inglês/Simple future.md",
+    "Dev/Angular lifecycle.canvas",
+    "Dev/Angular lifecycle.md",
     "Dev/Hydration.md",
+    "Dev/revalidatePath().md",
+    "Dev/Shadow DOM.md",
+    "Dev/useTransition().md",
+    "Dev/Web Components.md",
+    "Fundamentos/DOM.md",
+    "Anexos/Pasted image 20240628175204.png",
+    "Anexos/Pasted image 20240628163250.png",
+    "Dev/Action.md",
+    "Fundamentos/Remote Procedure Call.md",
+    "Fundamentos/CORS.md",
+    "todo-list.md",
+    "README.md",
+    "2024-06-26.md",
+    "Inglês/Passive voice.md",
+    "Inglês/Present Perfect Continous.md",
+    "Inglês/Present Perfect.md",
     "Inglês/Present continous.md",
-    "Inglês/Simple Past.md",
+    "Inglês/Tag question.md",
+    "Inglês/Simple future.md",
+    "Inglês/Second Conditional.md",
     "Inglês/Simples Past VS Past Continous.md",
-    "Inglês/Time Expressions.md",
-    "Inglês/Superlative.md",
-    "Inglês/Thing VS Stuff.md",
-    "Inglês/Comparative.md",
-    "Inglês/For.md",
-    "Inglês/Glottal Stop.md",
-    "Inglês/Had better.md",
-    "Inglês/I prefer.md",
-    "Inglês/Past Continous.md",
     "Inglês/Possessive pronouns.md",
-    "Inglês/Would rather.md",
-    "Inglês/To.md",
+    "Inglês/Past Continous.md",
+    "Inglês/Past Participle.md",
+    "Red Team/Ataque a JWT.md",
+    "Red Team/graph/Teste em aplicações Web.canvas",
     "Red Team/graph/Recon.canvas",
-    "CTFs/portswigger/Host header injection - password reset via dangling markup.md",
-    "CTFs/portswigger/Insecure Deserialiation - Arbitrary object injection PHP.md",
-    "CTFs/portswigger/Insecure Deserialization - Modifying data types.md",
-    "CTFs/portswigger/Insecure Deserialization - PHAR.md",
-    "CTFs/portswigger/Insecure Deserialization - Using application functionality.md",
-    "CTFs/portswigger/JWT - algorithm confusion.md",
-    "CTFs/portswigger/JWT - bypass jku header.md",
-    "CTFs/portswigger/JWT - bypass kid.md",
-    "CTFs/portswigger/SSRF - whitelist-based input filter.md",
     "Inglês",
     "Dev",
     "Anexos/Pasted image 20240430144508.png",
-    "Red Team/graph/Teste em aplicações Web.canvas",
     "Red Team/graph",
     "Anexos/Pasted image 20240429111529.png",
     "Anexos/Pasted image 20240429151100.png",
@@ -191,10 +194,8 @@
     "Blue Team/SOC/Endpoint Security/Sem título",
     "Blue Team/SOC/Network Security",
     "Blue Team/SOC/CTI",
-    "Anexos/Pasted image 20240424114726.png",
     "Red Team/Técnicas/Privesc/Linux",
     "Red Team/Técnicas/Privesc/Windows",
-    "Red Team/Técnicas/API",
-    "Anexos/Pasted image 20240418202210.png"
+    "Red Team/Técnicas/API"
   ]
 }
