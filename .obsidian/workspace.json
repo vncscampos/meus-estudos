@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Action.md",
+                "file": "Dev/revalidatePath().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Action.md",
+                "file": "Dev/revalidatePath().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Action.md",
+                "file": "Dev/revalidatePath().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Action.md"
+                "file": "Dev/revalidatePath().md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d4be5a85c97cf5b5",
+  "active": "08a55beadee89d82",
   "lastOpenFiles": [
+    "Dev/Hydration.md",
+    "Dev/Action.md",
     "Dev/Angular lifecycle.canvas",
     "Dev/Angular lifecycle.md",
-    "Dev/Hydration.md",
     "Dev/revalidatePath().md",
     "Dev/Shadow DOM.md",
     "Dev/useTransition().md",
@@ -159,7 +160,6 @@
     "Fundamentos/DOM.md",
     "Anexos/Pasted image 20240628175204.png",
     "Anexos/Pasted image 20240628163250.png",
-    "Dev/Action.md",
     "Fundamentos/Remote Procedure Call.md",
     "Fundamentos/CORS.md",
     "todo-list.md",
