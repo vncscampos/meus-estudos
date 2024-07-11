@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aac42e52ba8f6f10",
+        "id": "c417b8d3449bae70",
         "type": "tabs",
         "children": [
           {
-            "id": "08a55beadee89d82",
+            "id": "5117c8f3205516d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/revalidatePath().md",
+                "file": "Inglês/Passive voice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/revalidatePath().md",
+                "file": "Inglês/Passive voice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/revalidatePath().md",
+                "file": "Inglês/Passive voice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/revalidatePath().md"
+                "file": "Inglês/Passive voice.md"
               }
             }
           }
@@ -147,13 +147,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "08a55beadee89d82",
+  "active": "5117c8f3205516d0",
   "lastOpenFiles": [
+    "Inglês/Past Continous.md",
+    "Inglês/Modal Verbs.md",
+    "Inglês/Glottal Stop.md",
+    "Inglês/I prefer.md",
+    "Inglês/Present Perfect.md",
+    "Inglês/Passive voice.md",
+    "Dev/revalidatePath().md",
     "Dev/Hydration.md",
     "Dev/Action.md",
     "Dev/Angular lifecycle.canvas",
     "Dev/Angular lifecycle.md",
-    "Dev/revalidatePath().md",
     "Dev/Shadow DOM.md",
     "Dev/useTransition().md",
     "Dev/Web Components.md",
@@ -165,18 +171,13 @@
     "todo-list.md",
     "README.md",
     "2024-06-26.md",
-    "Inglês/Passive voice.md",
     "Inglês/Present Perfect Continous.md",
-    "Inglês/Present Perfect.md",
     "Inglês/Present continous.md",
     "Inglês/Tag question.md",
     "Inglês/Simple future.md",
     "Inglês/Second Conditional.md",
     "Inglês/Simples Past VS Past Continous.md",
     "Inglês/Possessive pronouns.md",
-    "Inglês/Past Continous.md",
-    "Inglês/Past Participle.md",
-    "Red Team/Ataque a JWT.md",
     "Red Team/graph/Teste em aplicações Web.canvas",
     "Red Team/graph/Recon.canvas",
     "Inglês",
